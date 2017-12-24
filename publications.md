@@ -6,7 +6,7 @@ title: Sushobhan Sen | Publications
 <div class="container">
 	<div class="row">
 		<div class="col-md-3 banner-custom">
-			<h3>Impact of concrete pavements on the urban heat island</h3>
+			<h3 class="banner-title">Impact of concrete pavements on the urban heat island</h3>
 			<p>Master's Thesis, 2015</p>
 			<a href="http://hdl.handle.net/2142/88095" target="_blank" class="banner-button">PDF</a>
 		</div><!--card-block-->
