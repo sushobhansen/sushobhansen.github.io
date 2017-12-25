@@ -3,9 +3,19 @@ layout: default
 title: Sushobhan Sen | Home
 ---
 
-# Sushobhan Sen
-Welcome to my website. This is where you can find out about my interests and experience, and find ways to connect with me.
+<div class="container">
+	<div class="row">
+		<div class="col-md-4 banner-custom offset-md-2">
+			<h2 class="banner-title">Sushobhan Sen</h2>
+			<p>Ph.D. Candidate</p>
+			<p>Civil Engineering</p>
+			<p>University of Illinois at Urbana Champaign</p>
+			<a href="https://github.com/sushobhansen/CV/blob/master/sushobhan-sen-cv.pdf" target="_blank" class="banner-button">Curriculum Vitae</a>
+		</div><!--col-md-4-->
+		<div class="col-md-4 offset-md-2">
+			<img src="/images/sen-pro-pic.jpg" alt="sen-pro-pic" height="250px" width="200px" class="img-responsive">
+		</div><!--col-md-4-->
+	</div><!--row-->
+</div><!--container-->
 
-![Sen Pro Pic][pro-pic]{:height="100px" width="100px"}
-
-[pro-pic]: /images/sen-pro-pic.jpg
+### Welcome to my website
