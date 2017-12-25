@@ -7,7 +7,7 @@ title: Sushobhan Sen | Teaching
 	<div class="row">
 		<div class="col-md-3 banner-custom">
 			<h3 class="banner-title">Teaching Statement</h3>
-			<a href="https://github.com/sushobhansen/Statements/blob/master/Teaching-Statement/sushobhan-sen-teaching-statement.pdf" target="_blank" class="banner-button">PDF</a>
+			<a href="https://github.com/sushobhansen/Statements/blob/master/Teaching-Statement/sushobhan-sen-teaching-statement.pdf" target="_blank" class="banner-button"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download PDF</a>
 		</div><!--card-block-->
 	</div><!--row-->
 </div><!--container-->
