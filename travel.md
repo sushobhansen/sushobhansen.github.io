@@ -4,7 +4,7 @@ title: Sushobhan Sen | Travel
 ---
 > “Wherever you go becomes a part of you somehow.”  - Anita Desai, author
 
-My entire life has been about moving to new places. I grew up in a military family in India, and had the pleasure of visiting a several states there, as you can see in the map below. 
+My entire life has been about moving to new places. I grew up in a military family in India, and had the pleasure of visiting (mostly living in) several states there, as you can see in the map below. 
 <div align="center">
 <img src='http://sumeet.info/India/map.php?visited=AP|KA|TN|KL|MH|WB|UN|UP|PB|HR|GA|DL|PY' style='border:2px solid;' alt='States visited in India' title='States that I have been to in India!' />
 </div>
