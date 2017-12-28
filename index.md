@@ -30,7 +30,7 @@ Currently, I study the effect of roads on outdoor air temperatures in cities. My
 Please have a look through my website to know more about what I do. **I am currently a post-prelim Ph.D. candidate, and will be looking for tenure-track faculty positions starting in 2019.**
 
 ## In the news
-- Thew News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016
+- The News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016
 - I will be presenting at the 97th Annual Meeting of the Transportation Research Board in Washington, DC, in Jan, 2018
 
 ## Contact Me
