@@ -25,7 +25,7 @@ I am a third-year Ph.D. student in the Department of Civil & Environmental Engin
 	<figcaption>A view of a street in the heart of Boston, MA</figcaption>
 </figure>
 
-Currently, I study the effect of roads on outdoor air temperatures in cities. My research combines traditional concepts of pavement engineering with materials characterization, heat transfer, and Computational Fluid Dynamics (CFD), and informed by an understanding of meteorology. My inter-disciplinary focus while working under my advisor, [Prof. Jeff Roesler](https://cee.illinois.edu/directory/profile/jroesler), makes me ready to handle the urban challenges of this century. 
+Currently, I study the effect of roads on outdoor air temperatures in cities. My research combines traditional concepts of pavement engineering with materials characterization, heat transfer, and Computational Fluid Dynamics (CFD), and informed by an understanding of meteorology. My inter-disciplinary focus while working under my advisor, [Prof. Jeff Roesler](https://cee.illinois.edu/directory/profile/jroesler){:target="_blank"}, makes me ready to handle the urban challenges of this century. 
 
 Please have a look through my website to know more about what I do. **I am currently a post-prelim Ph.D. candidate, and will be looking for tenure-track faculty positions starting in 2019.**
 
