@@ -98,7 +98,7 @@ Here are some of the pictures I've taken from all my travels!
 
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/gateway-of-india.jpg">
+			<a href="/images/gateway-of-india.jpg" target="_blank">
 				<img src="/images/gateway-of-india.jpg" alt="gateway-of-india" style="width:100%">
 			</a>
 			<div class="caption">
@@ -109,7 +109,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/paul-revere.jpg">
+			<a href="/images/paul-revere.jpg" target="_blank">
 				<img src="/images/paul-revere.jpg" alt="paul-revere" style="width:100%">
 			</a>
 			<div class="caption">
@@ -120,7 +120,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/knibbe-ranch.jpg">
+			<a href="/images/knibbe-ranch.jpg" target="_blank">
 				<img src="/images/knibbe-ranch.jpg" alt="knibbe-ranch" style="width:100%">
 			</a>
 			<div class="caption">
@@ -131,7 +131,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/signal-hill.jpg">
+			<a href="/images/signal-hill.jpg" target="_blank">
 				<img src="/images/signal-hill.jpg" alt="signal-hill" style="width:100%">
 			</a>
 			<div class="caption">
@@ -142,7 +142,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/night-market.jpg">
+			<a href="/images/night-market.jpg" target="_blank">
 				<img src="/images/night-market.jpg" alt="night-market" style="width:100%">
 			</a>
 			<div class="caption">
@@ -153,7 +153,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/north-quad.jpg">
+			<a href="/images/north-quad.jpg" target="_blank">
 				<img src="/images/north-quad.jpg" alt="north-quad" style="width:100%">
 			</a>
 			<div class="caption">
@@ -164,7 +164,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/haridwar.jpg">
+			<a href="/images/haridwar.jpg" target="_blank">
 				<img src="/images/haridwar.jpg" alt="haridwar" style="width:100%">
 			</a>
 			<div class="caption">
@@ -175,7 +175,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/arch-triumph.jpg">
+			<a href="/images/arch-triumph.jpg" target="_blank">
 				<img src="/images/arch-triumph.jpg" alt="arch-triumph" style="width:100%">
 			</a>
 			<div class="caption">
@@ -186,7 +186,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/downtown-tokyo.jpg">
+			<a href="/images/downtown-tokyo.jpg" target="_blank">
 				<img src="/images/downtown-tokyo.jpg" alt="downtown-tokyo" style="width:100%">
 			</a>
 			<div class="caption">
@@ -197,7 +197,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/birthday-munich.JPG">
+			<a href="/images/birthday-munich.JPG" target="_blank">
 				<img src="/images/birthday-munich.JPG" alt="birthday-munich" style="width:100%">
 			</a>
 			<div class="caption">
@@ -208,7 +208,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/republic-day-roorkee.jpg">
+			<a href="/images/republic-day-roorkee.jpg" target="_blank">
 				<img src="/images/republic-day-roorkee.jpg" alt="republic-day-roorkee" style="width:100%">
 			</a>
 			<div class="caption">
@@ -219,7 +219,7 @@ Here are some of the pictures I've taken from all my travels!
 	
 	<div class="col-md-3">
 		<div class="thumbnail">
-			<a href="/images/bhavans-reunion.jpg">
+			<a href="/images/bhavans-reunion.jpg" target="_blank">
 				<img src="/images/bhavans-reunion.jpg" alt="bhavans-reunion" style="width:100%">
 			</a>
 			<div class="caption">
