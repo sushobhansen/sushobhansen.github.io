@@ -32,7 +32,7 @@ Currently, I study the effect of roads on outdoor air temperatures in cities. My
 
 ## <i class="fa fa-newspaper-o"></i> In the news 
 - The News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016
-- I will be presenting at the 97th Annual Meeting of the Transportation Research Board in Washington, DC, in Jan, 2018
+- Currently reading: *Teaching and Learning STEM: A Practical Guide*, Richard M Felder and Rebecca Brent (2016). Jossey-Bass, San Francisco, CA
 
 ## <i class="fa fa-id-card-o"></i> Contact me
 I look forwarding to talking about my research interests and my thoughts on graduate education. <br>Use the links on the right side of the navigation bar, or the information below.
