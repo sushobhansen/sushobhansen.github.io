@@ -6,7 +6,7 @@ title: Sushobhan Sen | Research
 	<div class="row">
 		<div class="col-md-3 banner-custom">
 			<h3 class="banner-title">Research Statement</h3>
-			<a href="#" target="_blank" class="banner-button"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download PDF</a>
+			<a href="https://github.com/sushobhansen/Statements/blob/master/Research-Statement/sushobhan-sen-research-statement.pdf" target="_blank" class="banner-button"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download PDF</a>
 		</div><!--card-block-->
 	</div><!--row-->
 </div><!--container-->
