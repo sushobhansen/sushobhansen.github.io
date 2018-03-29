@@ -33,6 +33,10 @@ In my short number of years, I've also been lucky to visit a variety of countrie
 	areas :
 	[
 		{
+			"id": "PR",
+			"showAsSelected": true
+		},
+		{
 			"id": "BE",
 			"showAsSelected": true
 		},
@@ -124,7 +128,7 @@ Here are some of the pictures I've taken from all my travels!
 				<img src="/images/knibbe-ranch.jpg" alt="knibbe-ranch" style="width:100%">
 			</a>
 			<div class="caption">
-			  <p>The closest I wanted to get to a longhorn! <br><b>Knibbe Ranch, USA</b></p>
+			  <p>The closest I wanted to get to a longhorn! <br><b>San Antonio, USA</b></p>
 			</div><!--caption-->
 		</div><!--thumbnail-->
 	</div><!--cold-md-m4-->
@@ -224,6 +228,17 @@ Here are some of the pictures I've taken from all my travels!
 			</a>
 			<div class="caption">
 			  <p>An early High School reunion, the last time I went there <br><b>Hyderabad, India</b></p>
+			</div><!--caption-->
+		</div><!--thumbnail-->
+	</div><!--cold-md-m4-->
+	
+	<div class="col-md-12">
+		<div class="thumbnail">
+			<a href="/images/drone-pr.jpg" target="_blank">
+				<img src="/images/drone-pr.jpg" alt="drone-pr">
+			</a>
+			<div class="caption">
+			  <p>Flying a drone at the Corredor Ecológico del Noreste (Northeast Ecological Corridor) to assess the debris spread in the area by Hurricane Maria (Image courtesy Eric Schumacher) <br><b>Puerto Rico</b></p>
 			</div><!--caption-->
 		</div><!--thumbnail-->
 	</div><!--cold-md-m4-->

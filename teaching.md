@@ -24,8 +24,9 @@ title: Sushobhan Sen | Teaching
 		<td>CEE 415: Geometric Design of Roads</td>
 		<td>Spring 2018</td>
 		<td>Teaching Assistant</td>
-		<td style="width:50%;">Future engagement.</td>
+		<td style="width:50%;">Current engagement.</td>
 	</tr>
+	
 	<tr>
 		<td>CEE 415: Geometric Design of Roads</td>
 		<td>Spring 2017</td>
@@ -37,5 +38,15 @@ title: Sushobhan Sen | Teaching
 		<td>Spring 2016</td>
 		<td>Teaching Assistant</td>
 		<td style="width:50%;">Class of 68 students. Made and graded homework, exams, and project reports, while also holding regular office hours and teaching AutoCAD Civil 3D. Delivered lectures in the instructor's absence. Rated 4.3 out of 5 in anonymous student feedback.</td>
+	</tr>
+</table>
+
+### Department of Agricultural & Biological Engineering, University of Illinois at Urbana-Champaign
+<table class="table table-striped table-hover">
+	<tr>
+		<td>ABE 498: Disaster Relief Projects: Hurricane Maria</td>
+		<td>Spring 2018</td>
+		<td>Field Co-Instructor</td>
+		<td style="width:50%;">Jointly led a group of 37 undergraduate students from across the University on a service visit and post-disaster infrastructure assessment survey to San Juan and adjoining areas in Puerto Rico. Taught students to use modern digital equipment to capture images of damaged infrastructure and brainstorm cost-effective solutions for rehabilitation. Demonstrated best-practices in writing professional reports.</td>
 	</tr>
 </table>
