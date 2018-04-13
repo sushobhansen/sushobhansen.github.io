@@ -46,7 +46,7 @@ title: Sushobhan Sen | Teaching
 	<tr>
 		<td>ABE 498: Disaster Relief Projects: Hurricane Maria</td>
 		<td>Spring 2018</td>
-		<td>Field Co-Instructor</td>
+		<td>Teaching Assistant</td>
 		<td style="width:50%;">Jointly led a group of 37 undergraduate students from across the University on a service visit and post-disaster infrastructure assessment survey to San Juan and adjoining areas in Puerto Rico. Taught students to use modern digital equipment to capture images of damaged infrastructure and brainstorm cost-effective solutions for rehabilitation. Demonstrated best-practices in writing professional reports.</td>
 	</tr>
 </table>
