@@ -19,8 +19,12 @@ Reviewer For: [International Journal of Pavement Engineering](http://www.tandfon
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/photocatalytic-cool-pavements.jpg" alt="view-factors" height="100px" width="100px"></td>
+		<td><b>Use phase assessment of photocatalytic cool pavements</b> <br> Baral, A., <b>Sen, S.</b>, and Roesler, J. <br> Journal of Cleaner Production, Vol. 190, pp. 722-728 (2018) <br> [<a href="https://www.sciencedirect.com/science/article/pii/S095965261831182X" target="_blank">pdf</a>]</td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/view-factors.jpg" alt="view-factors" height="100px" width="100px"></td>
-		<td><b>Albedo estimation of Finite-sized concrete specimens</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> ASTM Journal of Testing and Evaluation, <i>In Press</i> (2017)</td>
+		<td><b>Albedo estimation of finite-sized concrete specimens</b> <br> <b>Sen, S.</b>, Roesler, J., and King, D. <br> Journal of Testing and Evaluation, Vol. 47, No. 2, pp. - (2019) <br> [<a href="https://compass.astm.org/DIGITAL_LIBRARY/JOURNALS/TESTEVAL/PAGES/JTE20170059.htm" target="_blank">pdf</a>]</td>
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/microscale-uhi.jpg" alt="microscale-uhi" height="100px" width="100px"></td>
@@ -39,6 +43,10 @@ Reviewer For: [International Journal of Pavement Engineering](http://www.tandfon
 ### Peer-Reviewed Conference Papers
 
 <table class="table table-striped table-hover">
+	<tr>
+		<td class="col-md-2"><img src="./images/potsdam-2018.jpg" alt="tac-2017" height="100px" width="100px"></td>
+		<td><b>Environmental design concept for multi-functional concrete overlays</b> <br> Baral, A., <b>Sen, S.</b>, and Roesler, J. <br> 9th International DUT-Workshop on Research and Innovations for Design of Sustainable and Durable Concrete Pavements, Potsdam, Germany (2018) </td>
+	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/tac-2017.jpg" alt="tac-2017" height="100px" width="100px"></td>
 		<td><b>Pavement geometry in microscale urban heat islands</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Conference of the Transportation Association of Canada, St. Johns, NL, Canada (2017) <br> [<a href="http://www.tac-atc.ca/sites/default/files/conf_papers/sens_-_pavement_geometry_in_microscale_urban_heat_islands.pdf" target="_blank">pdf</a>] </td>
