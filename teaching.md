@@ -12,6 +12,28 @@ title: Sushobhan Sen | Teaching
 	</div><!--row-->
 </div><!--container-->
 
+### Teaching Certificates
+<table class="table table-striped table-hover">
+	<tr>
+		<th>Certificate</th>
+		<th>Date</th>
+		<th>Issued By</th>
+		<th>Comments</th>
+	</tr>
+	<tr>
+		<td>Teacher Scholar Certificate</td>
+		<td>May, 2018</td>
+		<td>Center for Innovation in Teaching and Learning (CITL) at the University of Illinois</td>
+		<td style="width:50%;">Certified for teaching three semesters and receiving at least 4.0/5.0 in anonymous student feedback, developing original coursework and having it assessed by students, taking a college teaching course, performing discipline-based service, and developing a teaching philosophy statement.</td>
+	</tr>
+	<tr>
+		<td>Graduate Teacher Certificate</td>
+		<td>May, 2018</td>
+		<td>Center for Innovation in Teaching and Learning (CITL) at the University of Illinois</td>
+		<td style="width:50%;">Certified for attending a teaching symposium, teaching for two semesters, having a lecture observed by a consultant and receiving feedback, collecting and using feedback from students, and attending additional teaching workshops.</td>
+	</tr>
+</table>
+
 ### Department of Civil & Environmental Engineering, University of Illinois at Urbana-Champaign
 <table class="table table-striped table-hover">
 	<tr>
@@ -24,7 +46,7 @@ title: Sushobhan Sen | Teaching
 		<td>CEE 415: Geometric Design of Roads</td>
 		<td>Spring 2018</td>
 		<td>Teaching Assistant</td>
-		<td style="width:50%;">Current engagement.</td>
+		<td style="width:50%;">Class of 63 students. Made and graded homework, exams, and project reports, while also holding regular office hours and teaching AutoCAD Civil 3D. Developed a new class project. Delivered lectures in the instructor's absence. Rated 4.5 out of 5 in anonymous student feedback.</td>
 	</tr>
 	
 	<tr>
@@ -44,7 +66,13 @@ title: Sushobhan Sen | Teaching
 ### Department of Agricultural & Biological Engineering, University of Illinois at Urbana-Champaign
 <table class="table table-striped table-hover">
 	<tr>
-		<td>ABE 498: Disaster Relief Projects: Hurricane Maria</td>
+		<th>Class</th>
+		<th>Semester</th>
+		<th>Role</th>
+		<th>Comments</th>
+	</tr>
+	<tr>
+		<td>ABE 498: Disaster Relief Projects:<br> Hurricane Maria</td>
 		<td>Spring 2018</td>
 		<td>Teaching Assistant</td>
 		<td style="width:50%;">Jointly led a group of 37 undergraduate students from across the University on a service visit and post-disaster infrastructure assessment survey to San Juan and adjoining areas in Puerto Rico. Taught students to use modern digital equipment to capture images of damaged infrastructure and brainstorm cost-effective solutions for rehabilitation. Demonstrated best-practices in writing professional reports.</td>

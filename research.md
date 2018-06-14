@@ -12,7 +12,7 @@ title: Sushobhan Sen | Research
 </div><!--container-->
 
 ## Interests
-My area of interest is urban studies, bringing together tools from a variety of disciplines to solve the problems of the world's cities. To that end, I have learned skills from pavement engineering, heat transfer, Computational Fluid Dynamics (CFD), and mesoscale meteorology. Currently, I study the relationship between pavement materials, urban form, and urban microclimate - popularly known as the Urban Heat Island (UHI). 
+My area of interest is urban studies, bringing together tools from a variety of disciplines to solve the problems of the world's cities. For this, I apply skills from pavement engineering, heat transfer, Computational Fluid Dynamics (CFD), and mesoscale meteorology. Currently, I study the relationship between pavement materials, urban form, and urban microclimate - popularly known as the Urban Heat Island (UHI) effect. 
 
 ## Projects
 
@@ -51,7 +51,7 @@ Click on individual projects to learn more.
 </div>
 <br>
 <div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#autonomousveh">Autonomous Vehicles for Higher-Order Thinking in a Geometric Design Class <span class="label label-default">Ongoing</span></h3>
+<h3 data-toggle="collapse" data-target="#autonomousveh">Autonomous Vehicles for Higher-Order Thinking in a Geometric Design Class  <span class="label label-info">Completed</span></h3>
 <div id="autonomousveh" class="collapse">
 <p>Autonomous vehicles, popularly called self-driving cars, have been the focus of research for several years, and have recently caught the attention of policymakers. Most of the transportation engineering-related literature concerning autonomous vehicles revolves around travel pattern and demand forecasting with very little focus has been placed on understanding how the widespread adoption of autonomous vehicles may change pavement geometric design. Given the expected widespread adoption of autonomous vehicles, it becomes crucial to understand and train students on potential changes in geometric design in the future. </p>
 <p>Using a Problem-Based Learning (PBL) approach, the CEE 415 Geometric Design of Roads class will be asked to modify existing geometric design standards from AASHTO to incorporate elements of fully autonomous vehicles. This approach is expected to allow students to critically analyze the standards and prepare them to tackle future challenges. The key outcomes that will be measured through this exercise are critical thinking skills, transferrable skills, and self-perception of the level of learning. </p>

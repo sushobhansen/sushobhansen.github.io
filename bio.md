@@ -43,7 +43,7 @@ title: Sushobhan Sen | Bio
 	</tr>
 	<tr>
 		<td width="20%">Jan - May, 2018 <br>Jan - May, 2016</td>
-		<td><b>Graduate Teaching Assistant</b> <br> Department of Civil & Environmental Engineering <br> University of Illinois at Urbana-Champaign</td>
+		<td><b>Graduate Teaching Assistant</b> <br> Department of Civil & Environmental Engineering <br> Department of Agricultural & Biological Engineering <br> University of Illinois at Urbana-Champaign</td>
 	</tr>
 	<tr>
 		<td width="20%">May - Jul, 2012</td>
@@ -68,6 +68,14 @@ title: Sushobhan Sen | Bio
 	<tr>
 		<td width="20%">Jan - May, 2017</td>
 		<td><b>CEE Transportation Instructional Fellowship</b> <br>Department of Civil & Environmental Engineering <br>University of Illinois at Urbana-Champaign</td>
+	</tr>
+	<tr>
+		<td width="20%">May, 2018</td>
+		<td><b>Teacher Scholar Certificate</b> <br>Center for Innovation in Teaching and Learning (CITL) <br>University of Illinois at Urbana-Champaign</td>
+	</tr>
+	<tr>
+		<td width="20%">May, 2018</td>
+		<td><b>Graduate Teacher Certificate</b> <br>Center for Innovation in Teaching and Learning (CITL) <br>University of Illinois at Urbana-Champaign</td>
 	</tr>
 	<tr>
 		<td width="20%">Aug, 2013 - Jul, 2014</td>
@@ -103,7 +111,7 @@ title: Sushobhan Sen | Bio
 	</tr>
 	<tr>
 		<td width="20%">Aug, 2013 - Present</td>
-		<td><b>Indian Graduate Students Association at UIUC</b> <br>President (2014-15) and board member</td>
+		<td><b>Indian Graduate Students Association at UIUC</b> <br>President (2014-15), webmaster (2015-18), and board member</td>
 	</tr>
 	<tr>
 		<td width="20%">Aug, 2016 - Aug, 2017</td>
