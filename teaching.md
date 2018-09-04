@@ -34,6 +34,22 @@ title: Sushobhan Sen | Teaching
 	</tr>
 </table>
 
+### College of Engineering, University of Illinois at Urbana-Champaign
+<table class="table table-striped table-hover">
+	<tr>
+		<th>Class</th>
+		<th>Semester</th>
+		<th>Role</th>
+		<th>Comments</th>
+	</tr>
+	<tr>
+		<td>ENG 598 TL: Teaching and Leadership</td>
+		<td>Fall 2018</td>
+		<td>Teaching Assistant</td>
+		<td style="width:50%;">TA for a class of 104 graduate students from across the College of Engineering. Graded homework, coordinated breakout sessions, and consulted with students on their final projects.</td>
+	</tr>
+</table>
+
 ### Department of Civil & Environmental Engineering, University of Illinois at Urbana-Champaign
 <table class="table table-striped table-hover">
 	<tr>
@@ -46,7 +62,7 @@ title: Sushobhan Sen | Teaching
 		<td>CEE 415: Geometric Design of Roads</td>
 		<td>Spring 2018</td>
 		<td>Teaching Assistant</td>
-		<td style="width:50%;">Class of 63 students. Made and graded homework, exams, and project reports, while also holding regular office hours and teaching AutoCAD Civil 3D. Developed a new class project. Delivered lectures in the instructor's absence. Rated 4.5 out of 5 in anonymous student feedback.</td>
+		<td style="width:50%;">Class of 63 students. Made and graded homework, exams, and project reports, while also holding regular office hours and teaching AutoCAD Civil 3D. Developed a new class project. Delivered lectures in the instructor's absence. Rated 4.5 out of 5 in anonymous student feedback and ranked as <b>'Excellent TA'</b> across the university for the semester.</td>
 	</tr>
 	
 	<tr>

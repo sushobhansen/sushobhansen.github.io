@@ -19,18 +19,6 @@ title: Sushobhan Sen | Bio
 	</tr>
 </table>
 
-### Computer Skills
-<table class="table table-striped table-hover">
-	<tr>
-		<td width="20%"><b>Software</b></td>
-		<td>AASHTO Pavement ME, OpenFOAM, AutoCAD Civil 3D, ANSYS FLUENT, Mathematica, MATLAB, Git</td>
-	</tr>
-	<tr>
-		<td><b>Languages</b></td>
-		<td>C/C++/C#, Python, Excel VBA, HTML/CSS/JS, LaTeX, Bash</td>
-	</tr>
-</table>
-
 ### Experience
 <table class="table table-striped table-hover">
 	<tr>
@@ -42,8 +30,12 @@ title: Sushobhan Sen | Bio
 		<td><b>CEE Transportation Instructional Fellow</b> <br> Department of Civil & Environmental Engineering <br> University of Illinois at Urbana-Champaign</td>
 	</tr>
 	<tr>
-		<td width="20%">Jan - May, 2018 <br>Jan - May, 2016</td>
-		<td><b>Graduate Teaching Assistant</b> <br> Department of Civil & Environmental Engineering <br> Department of Agricultural & Biological Engineering <br> University of Illinois at Urbana-Champaign</td>
+		<td width="20%">Jun - Aug, 2018</td>
+		<td><b>Technical Intern</b> <br> ePAVE, LLC <br> Los Angeles, CA</td>
+	</tr>
+	<tr>
+		<td width="20%">Aug - Dec, 2018 <br> Jan - May, 2018 <br>Jan - May, 2016</td>
+		<td><b>Graduate Teaching Assistant</b> <br> College of Engineering<br> Department of Civil & Environmental Engineering <br> Department of Agricultural & Biological Engineering <br> University of Illinois at Urbana-Champaign</td>
 	</tr>
 	<tr>
 		<td width="20%">May - Jul, 2012</td>
@@ -132,5 +124,17 @@ title: Sushobhan Sen | Bio
 	<tr>
 		<td width="20%">Jul, 2011 - May, 2012</td>
 		<td><b>Kshitij Literary Magazine, Indian Institute of Technology Roorkee</b> <br>Executive Editor on the English Editorial Desk</td>
+	</tr>
+</table>
+
+### Computer Skills
+<table class="table table-striped table-hover">
+	<tr>
+		<td width="20%"><b>Software</b></td>
+		<td>AASHTO Pavement ME, OpenFOAM, AutoCAD Civil 3D, ANSYS FLUENT, Mathematica, MATLAB, Git</td>
+	</tr>
+	<tr>
+		<td><b>Languages</b></td>
+		<td>C/C++/C#, Python, Excel VBA, HTML/CSS/JS, LaTeX, Bash</td>
 	</tr>
 </table>

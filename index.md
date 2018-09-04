@@ -18,7 +18,7 @@ title: Sushobhan Sen | Home
 </div><!--container-->
 
 ## Welcome to my website!
-I am a third-year Ph.D. student in the Department of Civil & Environmental Engineering at the University of Illinois at Urbana-Champaign. I love cities: they are the cauldron of human civilization, a living embodiment of our creativity, and the future of humanity. For a researcher, cities represent an almost-endless source of fascinating research questions. My research interests aim towards designing safer, healthier, and smarter cities by bringing the power of modern computational tools to traditional engineering and urban planning.
+I am a fourth-year Ph.D. student in the Department of Civil & Environmental Engineering at the University of Illinois at Urbana-Champaign. I love cities: they are the cauldron of human civilization, a living embodiment of our creativity, and the future of humanity. For a researcher, cities represent an almost-endless source of fascinating research questions. My research interests aim towards designing safer, healthier, and smarter cities by bringing the power of modern computational tools to traditional engineering and urban planning.
 
 <!---A nice picture but it clutters the homepage
 <figure style="text-align:center;">
