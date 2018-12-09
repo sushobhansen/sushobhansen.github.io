@@ -26,7 +26,7 @@ title: Sushobhan Sen | Bio
 		<td><b>Graduate Research Assistant</b> <br> Department of Civil & Environmental Engineering <br> University of Illinois at Urbana-Champaign</td>
 	</tr>
 	<tr>
-		<td width="20%">Jan - May, 2017</td>
+		<td width="20%">Jan - May, 2019<br>Jan - May, 2017</td>
 		<td><b>CEE Transportation Instructional Fellow</b> <br> Department of Civil & Environmental Engineering <br> University of Illinois at Urbana-Champaign</td>
 	</tr>
 	<tr>

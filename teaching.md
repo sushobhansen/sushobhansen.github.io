@@ -46,7 +46,7 @@ title: Sushobhan Sen | Teaching
 		<td>ENG 598 TL: Teaching and Leadership</td>
 		<td>Fall 2018</td>
 		<td>Teaching Assistant</td>
-		<td style="width:50%;">TA for a class of 104 graduate students from across the College of Engineering. Graded homework, coordinated breakout sessions, and consulted with students on their final projects.</td>
+		<td style="width:50%;">TA for a class of 104 graduate students from across the College of Engineering. Graded homework, coordinated breakout sessions, and guided students on their final projects.</td>
 	</tr>
 </table>
 
@@ -58,6 +58,14 @@ title: Sushobhan Sen | Teaching
 		<th>Role</th>
 		<th>Comments</th>
 	</tr>
+	
+	<tr>
+		<td>CEE 415: Geometric Design of Roads</td>
+		<td>Spring 2019</td>
+		<td>Instructor</td>
+		<td style="width:50%;">Future engagement.</td>
+	</tr>
+	
 	<tr>
 		<td>CEE 415: Geometric Design of Roads</td>
 		<td>Spring 2018</td>

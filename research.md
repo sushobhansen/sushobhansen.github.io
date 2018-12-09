@@ -27,7 +27,7 @@ Click on individual projects to learn more.
 </div>
 <br>
 <div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#psat">Development of a Pavement Preservation Sustainability Assessment Tool <span class="label label-default">Ongoing</span></h3>
+<h3 data-toggle="collapse" data-target="#psat">Development of a Pavement Preservation Sustainability Assessment Tool <span class="label label-info">Completed</span></h3>
 <div id="psat" class="collapse">
 <p>Pavement Life Cycle Assessment (LCA) is a quantitative tool to measure the sustainability of pavements. In an LCA, the life cycle of a pavement is divided into materials, construction, use, maintenance, and end-of-life phases, and the environmental impact in each phase is accounted for. Currently, there is no tool that performs an LCA for pavement preservation techniques, using both asphalt and concrete treatments.</p>
 <p>In this project, a team from the <a href="http://ict.illinois.edu" target="_blank">Illinois Center for Transportation</a> is working to build a user-friendly, Excel-based tool to quantify the LCA for several preservation treatments, including chip seals, thin overlays, crack sealing, etc. As part of this tool, the use phase impact will take into account rolling resistance, texture, and Urban Heat Island (UHI) impact. In particular, the quantification of UHI will take into account differences in albedo and construction location.</p>
