@@ -19,6 +19,10 @@ Reviewer For: [International Journal of Pavement Engineering](http://www.tandfon
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/asphalt-cores.jpg" alt="view-factors" height="100px" width="100px"></td>
+		<td><b>Thermal and optical characterization of asphalt field cores for microscale urban heat island analysis</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Construction and Building Materials, Vol. 217, pp. 600-611 (2019) <br> [<a href="https://www.sciencedirect.com/science/article/pii/S0950061819312619" target="_blank">pdf</a>]</td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/photocatalytic-cool-pavements.jpg" alt="view-factors" height="100px" width="100px"></td>
 		<td><b>Use phase assessment of photocatalytic cool pavements</b> <br> Baral, A., <b>Sen, S.</b>, and Roesler, J. <br> Journal of Cleaner Production, Vol. 190, pp. 722-728 (2018) <br> [<a href="https://www.sciencedirect.com/science/article/pii/S095965261831182X" target="_blank">pdf</a>]</td>
 	</tr>

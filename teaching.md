@@ -63,7 +63,7 @@ title: Sushobhan Sen | Teaching
 		<td>CEE 415: Geometric Design of Roads</td>
 		<td>Spring 2019</td>
 		<td>Instructor</td>
-		<td style="width:50%;">Future engagement.</td>
+		<td style="width:50%;">Class of 49 students. Delivered lectures, made and graded homework, exams, and project reports, taught AutoCAD Civil 3D, and held regular office hours.</td>
 	</tr>
 	
 	<tr>
