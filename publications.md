@@ -48,6 +48,10 @@ Reviewer For: [International Journal of Pavement Engineering](http://www.tandfon
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/coupled-model.jpg" alt="tac-2017" height="100px" width="100px"></td>
+		<td><b>Coupled pavement-urban canyon model for assessing cool pavements</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> International Airfield and Highway Pavements Conference, Chicago, IL (2019)<br><i>Accepted, in press</i></td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/potsdam-2018.jpg" alt="tac-2017" height="100px" width="100px"></td>
 		<td><b>Environmental design concept for multi-functional concrete overlays</b> <br> Baral, A., <b>Sen, S.</b>, and Roesler, J. <br> 9th International DUT-Workshop on Research and Innovations for Design of Sustainable and Durable Concrete Pavements, Potsdam, Germany (2018) </td>
 	</tr>
