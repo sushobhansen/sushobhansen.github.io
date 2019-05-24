@@ -34,6 +34,7 @@ Currently, I study the effect of roads on outdoor air temperatures in cities. My
 - The News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016
 - I was in the spotlight for the February, 2018 edition of the Illinois Center for Transportation's [newsletter](http://ict.illinois.edu/2018/01/26/ict-student-spotlight-sushobhan-sen/) 
 - Read the Illinois Center for Transportation's [news brief](http://ict.illinois.edu/2018/04/19/urban-heat-islands-studied-within-a-pavement-lca-framework/) about some of my work
+- I taught two programming workshops: Introductory Python for beginners, and Advanced Python for scientific applications. You can find the workshop materials [here](https://github.com/sushobhansen/aci-python-workshop)
 
 ## <i class="fa fa-id-card-o"></i> Contact me
 I look forwarding to talking about my research interests and my thoughts on graduate education. <br>Use the links on the right side of the navigation bar, or the information below.
