@@ -18,7 +18,7 @@ title: Sushobhan Sen | Home
 </div><!--container-->
 
 ## Welcome to my website!
-I am a fourth-year Ph.D. student in the Department of Civil & Environmental Engineering at the University of Illinois at Urbana-Champaign. I love cities: they are the cauldron of human civilization, a living embodiment of our creativity, and the future of humanity. For a researcher, cities represent an almost-endless source of fascinating research questions. My research interests aim towards designing safer, healthier, and smarter cities by bringing the power of modern computational tools to traditional engineering and urban planning.
+I am a fourth-year Ph.D. student in the Department of Civil & Environmental Engineering at the University of Illinois at Urbana-Champaign. I love infrastructure: from highways that are hundreds of kilometers long to buildings that soar to the skies, and the vast underground systems that keep both of them running. I am fascinated by the effect of infrastructure on how people live and am excited by research that helps make them better.
 
 <!---A nice picture but it clutters the homepage
 <figure style="text-align:center;">
@@ -26,15 +26,14 @@ I am a fourth-year Ph.D. student in the Department of Civil & Environmental Engi
 	<figcaption>A view of a street in the heart of Boston, MA</figcaption>
 </figure>--->
 
-Currently, I study the effect of roads on outdoor air temperatures in cities. My research combines traditional concepts of pavement engineering with materials characterization, heat transfer, and Computational Fluid Dynamics (CFD), and informed by an understanding of meteorology. My inter-disciplinary focus while working under my advisor, [Prof. Jeff Roesler](https://cee.illinois.edu/directory/profile/jroesler){:target="_blank"}, makes me ready to handle the urban challenges of this century. 
+Currently, I study the effect of roads on outdoor air temperatures in cities. My research combines traditional concepts of pavement engineering with materials characterization, heat transfer, numerical analysis (particularly Computational Fluid Dynamics (CFD)), and informed by an understanding of meteorology. My inter-disciplinary focus while working under my advisor, [Prof. Jeff Roesler](https://cee.illinois.edu/directory/profile/jroesler){:target="_blank"}, makes me ready to tackle a variety of infrastructure-related challenges that shape this century. 
 
-**I am currently a post-prelim Ph.D. candidate, and will be looking for tenure-track faculty positions starting in 2019.**
+**I am currently a post-prelim Ph.D. candidate, and am looking for postdoctoral positions starting in Fall 2019.**
 
 ## <i class="fa fa-newspaper-o"></i> In the news 
 - The News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016
 - I was in the spotlight for the February, 2018 edition of the Illinois Center for Transportation's [newsletter](http://ict.illinois.edu/2018/01/26/ict-student-spotlight-sushobhan-sen/) 
 - Read the Illinois Center for Transportation's [news brief](http://ict.illinois.edu/2018/04/19/urban-heat-islands-studied-within-a-pavement-lca-framework/) about some of my work
-- I will be presenting some of my work at the 98th Annual Meeting of the Transportation Research Board in January, 2019 in Washington, DC
 
 ## <i class="fa fa-id-card-o"></i> Contact me
 I look forwarding to talking about my research interests and my thoughts on graduate education. <br>Use the links on the right side of the navigation bar, or the information below.
