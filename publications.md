@@ -40,7 +40,7 @@ Reviewer For: [International Journal of Pavement Engineering](http://www.tandfon
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/context-uhi.jpg" alt="context-uhi" height="100px" width="100px"></td>
-		<td><b>Contextual heat island assessment for pavement preservation.</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> International Journal of Pavement Engineering, <i>In Press</i> (2016) <br> [<a href="http://www.tandfonline.com/doi/full/10.1080/10298436.2016.1213842" target="_blank">pdf</a>]</td> 
+		<td><b>Contextual heat island assessment for pavement preservation.</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> International Journal of Pavement Engineering, Vol. 19, No. 10, pp. 865-873 (2018) <br> [<a href="http://www.tandfonline.com/doi/full/10.1080/10298436.2016.1213842" target="_blank">pdf</a>]</td> 
 	</tr>
 </table>
 
