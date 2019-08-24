@@ -53,7 +53,7 @@ Reviewer For: [International Journal of Pavement Engineering](http://www.tandfon
 <table class="table table-striped table-hover">
 	<tr>
 		<td class="col-md-2"><img src="./images/coupled-model.jpg" alt="tac-2017" height="100px" width="100px"></td>
-		<td><b>Coupled pavement-urban canyon model for assessing cool pavements</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> International Airfield and Highway Pavements Conference, Chicago, IL (2019)<br><i>Accepted, in press</i></td>
+		<td><b>Coupled pavement-urban canyon model for assessing cool pavements</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Airfield and Highway Pavements 2019: Innovation and Sustainability in Highway and Airfield Pavement Technology, Chicago, IL (2019), pp. 207-215 (2019) <br> [<a href="https://ascelibrary.org/doi/abs/10.1061/9780784482476.022" target="_blank">pdf</a>] </td>
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/potsdam-2018.jpg" alt="tac-2017" height="100px" width="100px"></td>
@@ -69,7 +69,7 @@ Reviewer For: [International Journal of Pavement Engineering](http://www.tandfon
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/plca-2017.jpg" alt="plca-2017" height="100px" width="100px"></td>
-		<td><b>An uncoupled pavement-urban canyon model for heat islands</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> International Symposium on Pavement Life Cycle Assessment, Champaign, IL, ISBN 978-1-315-15932-4, pp. 111-120, (2017) <br> [<a href="https://www.taylorfrancis.com/books/9781351659222" target="_blank">pdf</a>] </td>
+		<td><b>An uncoupled pavement-urban canyon model for heat islands</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> International Symposium on Pavement Life Cycle Assessment, Champaign, IL, ISBN 978-1-315-15932-4, pp. 111-120 (2017) <br> [<a href="https://www.taylorfrancis.com/books/9781351659222" target="_blank">pdf</a>] </td>
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/iccp-2016.jpg" alt="iccp-2016" height="100px" width="100px"></td>
