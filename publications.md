@@ -13,11 +13,15 @@ title: Sushobhan Sen | Publications
 	</div><!--row-->
 </div><!--container-->
 
-Reviewer For: [International Journal of Pavement Engineering](http://www.tandfonline.com/loi/gpav20), [Journal of Solar Energy](https://www.journals.elsevier.com/solar-energy/), [Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production/), [International Journal for Heat and Mass Transfer](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer/), [Transportation Research Record: Journal of the Transportation Research Board](http://trrjournalonline.trb.org/loi/trr), [Environmental Research Letters](http://iopscience.iop.org/journal/1748-9326), [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), [Measurement](https://www.journals.elsevier.com/measurement)
+Reviewer For: [International Journal of Pavement Engineering](http://www.tandfonline.com/loi/gpav20), [Journal of Solar Energy](https://www.journals.elsevier.com/solar-energy/), [Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production/), [International Journal for Heat and Mass Transfer](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer/), [Transportation Research Record: Journal of the Transportation Research Board](http://trrjournalonline.trb.org/loi/trr), [Environmental Research Letters](http://iopscience.iop.org/journal/1748-9326), [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), [Measurement](https://www.journals.elsevier.com/measurement), [Journal of Nondestructive Evaluation](https://link.springer.com/journal/10921)
 
 ### Peer-Reviewed Journal Articles
 
 <table class="table table-striped table-hover">
+	<tr>
+		<td class="col-md-2"><img src="./images/wind-study.jpg" alt="view-factors" height="100px" width="100px"></td>
+		<td><b>Wind direction and cool surface strategies on microscale urban heat island</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Urban Climate, Vol. 31, pp. 100548 (2020) <br> [<a href="https://www.sciencedirect.com/science/article/pii/S221209551930149X" target="_blank">pdf</a>]</td>
+	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/power-ranch.jpg" alt="view-factors" height="100px" width="100px"></td>
 		<td><b>Cool Pavement Strategies for Urban Heat Island Mitigation in Suburban Phoenix, Arizona</b> <br> <b>Sen, S.</b>, Roesler, J., Ruddell, B., and Middel, A. <br> Sustainability, Vol. 11, No. 16, 4452 (2019) <br> [<a href="https://www.mdpi.com/2071-1050/11/16/4452" target="_blank">pdf</a>]</td>

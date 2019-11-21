@@ -18,7 +18,7 @@ title: Sushobhan Sen | Home
 </div><!--container-->
 
 ## Welcome to my website!
-I am a fourth-year Ph.D. student in the Department of Civil & Environmental Engineering at the University of Illinois at Urbana-Champaign. I love infrastructure: from highways that are hundreds of kilometers long to buildings that soar to the skies, and the vast underground systems that keep both of them running. I am fascinated by the effect of infrastructure on how people live and am excited by research that helps make them better.
+I am a doctoral candidate in the Department of Civil & Environmental Engineering at the University of Illinois at Urbana-Champaign. I love infrastructure: from highways that are hundreds of kilometers long to buildings that soar to the skies, and the vast underground systems that keep both of them running. I am fascinated by the effect of infrastructure on how people live and am excited by research that helps make them better.
 
 <!---A nice picture but it clutters the homepage
 <figure style="text-align:center;">
@@ -28,7 +28,7 @@ I am a fourth-year Ph.D. student in the Department of Civil & Environmental Engi
 
 Currently, I study the effect of roads on outdoor air temperatures in cities. My research combines traditional concepts of pavement engineering with materials characterization, heat transfer, numerical analysis (particularly Computational Fluid Dynamics (CFD)), and informed by an understanding of meteorology. My inter-disciplinary focus while working under my advisor, [Prof. Jeff Roesler](https://cee.illinois.edu/directory/profile/jroesler){:target="_blank"}, makes me ready to tackle a variety of infrastructure-related challenges that shape this century. 
 
-**I am currently a post-prelim Ph.D. candidate, and am looking for postdoctoral positions starting in Fall 2019.**
+**I will be starting a postdoctoral position in January 2020 and will be looking for tenure-track faculty positions after that.**
 
 ## <i class="fa fa-newspaper-o"></i> In the news 
 - The News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016

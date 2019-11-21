@@ -19,9 +19,9 @@ My area of interest is urban studies, bringing together tools from a variety of 
 Click on individual projects to learn more.
 
 <div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#nchrp1-61">Thermal and Optical Evaluation of Bonded Concrete Overlays on Asphalt Pavements <span class="label label-default">Ongoing</span></h3>
+<h3 data-toggle="collapse" data-target="#nchrp1-61">Performance of Bonded Concrete Overlays on Asphalt Pavements <span class="label label-default">Ongoing</span></h3>
 <div id="nchrp1-61" class="collapse">
-<p>Overlays are used to extend the service life of pavements after they have undergone deterioration. While asphalt concrete overlays are common, bonded concrete overlays on existing asphalt pavements (BCOA) are also used. In this study, funded by the National Cooperative Highway Research Program (NCHRP), BCOA field were from around the US will be extracted and evaluated for bond strength, thermal (including Coefficient of Thermal Expansion) and optical properties, and base material characteristics. This study will lead to an improved understanding of the field performance of BCOA and advance their implementation</p>
+<p>Overlays are used to extend the service life of pavements after they have undergone deterioration. While asphalt concrete overlays are common, bonded concrete overlays on existing asphalt pavements (BCOA) are also used. In this study, funded by the National Cooperative Highway Research Program (NCHRP), BCOA field were from around the US will be extracted and evaluated for performance, thermal (including Coefficient of Thermal Expansion) and optical properties, and base material characteristics. This study will lead to an improved understanding of the field performance of BCOA and advance their implementation</p>
 </div><!--nchrp1-61-->
 </div>
 <br>
@@ -42,7 +42,7 @@ Click on individual projects to learn more.
 </div>
 <br>
 <div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#thermaloptic">Thermal and Optical Characterization of Pavement Materials <span class="label label-default">Ongoing</span></h3>
+<h3 data-toggle="collapse" data-target="#thermaloptic">Thermal and Optical Characterization of Pavement Materials <span class="label label-info">Completed</span></h3>
 <div id="thermaloptic" class="collapse">
 <p>For the characterization of the impact of pavement materials on local urban microclimate, the first step is to characterize the materials themselves. There are two types of characteristics that are of interest: optical characteristics, which determine how much energy is admitted into the pavement (absorptivity, or one minus albedo) and how much is emitted (the emissivity); and thermal characteristics, which determine how much energy is conducted through the pavement layers (thermal conductivity) and how much is stored for a given increase in temperature (heat capacity).</p>
 <p> In this project, the thermal and optical properties of both asphalt and concrete specimens is being determined. Specifically, albedo is characterized in the laboratory using a spectrophotometer, while thermal properties are characterized using a rapid, lab-based Transient Plane Source (TPS) technique. For concrete specimens, a statistically-controlled predictive model was be developed, while for asphalt specimens, field cores wereused. For both cases, a general range of values will be obtained and compared to values currently used in Mechanistic-Empirical pavement design.</p>
@@ -51,7 +51,7 @@ Click on individual projects to learn more.
 </div>
 <br>
 <div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#canyoncfd">Pavement-Urban Canyon CFD Model <span class="label label-default">Ongoing</span></h3>
+<h3 data-toggle="collapse" data-target="#canyoncfd">Pavement-Urban Canyon CFD Model <span class="label label-info">Completed</span></h3>
 <div id="canyoncfd" class="collapse">
 <p>Computational Fluid Dynamics (CFD) has been used in the past to characterize the flow of wind in urban areas. A few jurisdictions, such as the Netherlands, have developed building codes that require designers to account for pedestrian wind comfort, which can be done through wind tunnel testing or CFD. Fewer studies have considered the effect of building and road configurations on the local microclimate. Research has shown that in urban canyons, the usual ventilation of air becomes constricted, leading to warm air stagnating and increasing local air temperatures.</p>
 <p>In this project, a pavement thermal model is being used together with a 3D CFD model of an urban area. Using a Boussinesq approximation for speed, the wind flow and temperature fields are resolved using a turbulence closure model in order to investigate what pavement strategies can mitigate the heat island in various parts of the city effectively. The study includes a grid convergence investigation, validation, and directional sensitivity analysis. The open-source CFD tool <a href="https://openfoam.org/" target="_blank">OpenFOAM</a> is used. The final stage of this project is to apply the model to a real-world case, which is ongoing.</p>

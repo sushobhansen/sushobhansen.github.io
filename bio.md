@@ -6,16 +6,16 @@ title: Sushobhan Sen | Bio
 ### Education
 <table class="table table-striped table-hover">
 	<tr>
-		<td width="20%">2015 - Present</td>
-		<td><b>Doctor of Philosophy in Civil Engineering</b> <br> University of Illinois at Urbana-Champaign <br> <i>GPA: 4.0/4.0</i></td>
+		<td width="20%">2015 - 2019</td>
+		<td><b>Doctor of Philosophy in Civil Engineering</b> <br> University of Illinois at Urbana-Champaign <br> Thesis topic: Role of pavements in urban energetics <br><i>GPA: 4.0/4.0</i></td>
 	</tr>
 	<tr>
 		<td>2013 - 2015</td>
-		<td><b>Master of Science in Civil Engineering</b> <br> University of Illinois at Urbana-Champaign <br> <i>GPA: 4.0/4.0</i></td>
+		<td><b>Master of Science in Civil Engineering</b> <br> University of Illinois at Urbana-Champaign <br> Thesis topic: Impact of concrete pavements on the urban heat island <br> <i>GPA: 4.0/4.0</i></td>
 	</tr>
 	<tr>
 		<td>2009 - 2013</td>
-		<td><b>Bachelor of Technology in Civil Engineering</b> <br> Indian Institute of Technology Roorkee <br> <i>GPA: 9.5/10.0</i></td>
+		<td><b>Bachelor of Technology in Civil Engineering</b> <br> Indian Institute of Technology Roorkee <br> Capstone project topic: Design of a hydroelectric power project <br> <i>GPA: 9.5/10.0</i></td>
 	</tr>
 </table>
 
@@ -58,7 +58,7 @@ title: Sushobhan Sen | Bio
 		<td><b>Mavis Future Faculty Fellowship</b> <br>College of Engineering <br>University of Illinois at Urbana-Champaign</td>
 	</tr>
 	<tr>
-		<td width="20%">Jan - May, 2017</td>
+		<td width="20%">Jan - May, 2017 <br>Jan - May, 2019 </td>
 		<td><b>CEE Transportation Instructional Fellowship</b> <br>Department of Civil & Environmental Engineering <br>University of Illinois at Urbana-Champaign</td>
 	</tr>
 	<tr>
