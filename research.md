@@ -12,14 +12,22 @@ title: Sushobhan Sen | Research
 </div><!--container-->
 
 ## Interests
-My area of interest is urban studies, bringing together tools from a variety of disciplines to solve the problems of the world's cities. For this, I apply skills from pavement engineering, heat transfer, Computational Fluid Dynamics (CFD), and mesoscale meteorology. Currently, I study the relationship between pavement materials, urban form, and urban microclimate - popularly known as the Urban Heat Island (UHI) effect. 
+My area of interest is urban studies, bringing together tools from a variety of disciplines to solve the problems of the world's cities. For this, I apply skills from pavement engineering, heat transfer, Computational Fluid Dynamics (CFD), and mesoscale meteorology. 
 
 ## Projects
 
 Click on individual projects to learn more.
 
 <div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#nchrp1-61">Performance of Bonded Concrete Overlays on Asphalt Pavements <span class="label label-default">Ongoing</span></h3>
+<h3 data-toggle="collapse" data-target="#CZM">A cohesive zone model implementation for concrete <span class="label label-default">Ongoing</span></h3>
+<div id="CZM" class="collapse">
+<p>A novel implementation of the PPR cohesive zone model.</p>
+</div><!--CZM-->
+</div>
+<br>
+
+<div class="banner-custom">
+<h3 data-toggle="collapse" data-target="#nchrp1-61">Performance of Bonded Concrete Overlays on Asphalt Pavements <span class="label label-info">Completed</span></h3>
 <div id="nchrp1-61" class="collapse">
 <p>Overlays are used to extend the service life of pavements after they have undergone deterioration. While asphalt concrete overlays are common, bonded concrete overlays on existing asphalt pavements (BCOA) are also used. In this study, funded by the National Cooperative Highway Research Program (NCHRP), BCOA field were from around the US will be extracted and evaluated for performance, thermal (including Coefficient of Thermal Expansion) and optical properties, and base material characteristics. This study will lead to an improved understanding of the field performance of BCOA and advance their implementation</p>
 </div><!--nchrp1-61-->

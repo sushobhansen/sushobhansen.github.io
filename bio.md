@@ -22,7 +22,11 @@ title: Sushobhan Sen | Bio
 ### Experience
 <table class="table table-striped table-hover">
 	<tr>
-		<td width="20%">2013 - Present</td>
+		<td width="20%">2020 - Present</td>
+		<td><b>Postdoctoral Associate</b> <br> Department of Civil & Environmental Engineering <br> University of Pittsburgh</td>
+	</tr>
+	<tr>
+		<td width="20%">2013 - 2019</td>
 		<td><b>Graduate Research Assistant</b> <br> Department of Civil & Environmental Engineering <br> University of Illinois at Urbana-Champaign</td>
 	</tr>
 	<tr>
@@ -94,7 +98,7 @@ title: Sushobhan Sen | Bio
 ### Leadership and Service
 <table class="table table-striped table-hover">
 	<tr>
-		<td width="20%">Jul, 2015 - Present</td>
+		<td width="20%">Jul, 2015 - December, 2019</td>
 		<td><b>International Society for Concrete Pavements</b> <br>Webmaster and student member</td>
 	</tr>
 	<tr>
@@ -102,7 +106,7 @@ title: Sushobhan Sen | Bio
 		<td><b>Institute of Transportation Engineers UIUC Student Chapter</b> <br>Secretary</td>
 	</tr>
 	<tr>
-		<td width="20%">Aug, 2013 - Present</td>
+		<td width="20%">Aug, 2013 - August, 2019</td>
 		<td><b>Indian Graduate Students Association at UIUC</b> <br>President (2014-15), webmaster (2015-18), and board member</td>
 	</tr>
 	<tr>
@@ -110,7 +114,7 @@ title: Sushobhan Sen | Bio
 		<td><b>ASCE Transportation & Development Institute UIUC Student Chapter</b> <br>Outreach Chair</td>
 	</tr>
 	<tr>
-		<td width="20%">Aug, 2013 - Present</td>
+		<td width="20%">Aug, 2013 - December, 2019</td>
 		<td><b>American Concrete Institute UIUC Student Chapter</b> <br>Member</td>
 	</tr>
 	<tr>
@@ -135,6 +139,6 @@ title: Sushobhan Sen | Bio
 	</tr>
 	<tr>
 		<td><b>Languages</b></td>
-		<td>C/C++/C#, Python, Excel VBA, HTML/CSS/JS, LaTeX, Bash</td>
+		<td>C/C++/C#, Fortran, Python, Excel VBA, HTML/CSS/JS, LaTeX, Bash</td>
 	</tr>
 </table>
