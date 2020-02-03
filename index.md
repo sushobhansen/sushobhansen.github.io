@@ -29,6 +29,7 @@ I am a postdoctoral associate in the Department of Civil & Environmental Enginee
 **I will be looking for tenure-track faculty positions starting 2021.**
 
 ## <i class="fa fa-newspaper-o"></i> In the news 
+- My [interview](https://ict.illinois.edu/2020/01/15/uiuc-grad-has-the-treatment-for-surging-urban-temps/) with the Illinois Center for Transportation in my last few days the University of Illinois
 - The News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016
 - The US Environmental Protection Agency (EPA) covered some of my work in their [Heat Island Newsletter](https://www.epa.gov/heat-islands/heat-island-newsroom) (navigate to the October 2019 edition)
 - I was in the spotlight for the February, 2018 edition of the Illinois Center for Transportation's [newsletter](http://ict.illinois.edu/2018/01/26/ict-student-spotlight-sushobhan-sen/) 
