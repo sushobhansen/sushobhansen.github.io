@@ -4,11 +4,7 @@ title: Sushobhan Sen | Travel
 ---
 > “Wherever you go becomes a part of you somehow.”  - Anita Desai, author
 
-My entire life has been about moving to new places. I grew up in a military family in India, and had the pleasure of visiting (mostly living in) several states there. 
-
-At the moment, I live in the United States and have visited just a [small but increasing](https://map1.maploco.com/visited-states/ml/CA-DC-IA-IL-IN-MA-MD-MI-MN-TX-WI.png) number of states.
-
-In my short number of years, I've also been lucky to visit a variety of countries around the world, and I look forward to visiting even more!
+My entire life has been about moving to new places. I grew up in a military family in India, and had the pleasure of visiting (mostly living in) several states there. I've also been lucky to visit a variety of countries around the world, and I look forward to visiting even more!
 
 <div align="center">
 	<script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
@@ -239,6 +235,17 @@ Here are some of the pictures I've taken from all my travels!
 			</a>
 			<div class="caption">
 			  <p>Flying a drone at the Corredor Ecológico del Noreste (Northeast Ecological Corridor) to assess the debris spread in the area by Hurricane Maria (Image courtesy Eric Schumacher) <br><b>Puerto Rico</b></p>
+			</div><!--caption-->
+		</div><!--thumbnail-->
+	</div><!--cold-md-m4-->
+	
+		<div class="col-md-3">
+		<div class="thumbnail">
+			<a href="/images/pgh-point.jpg" target="_blank">
+				<img src="/images/pgh-point.jpg" alt="pgh-point" style="width:100%">
+			</a>
+			<div class="caption">
+			  <p>The forks of the Ohio River at Point State Park <br><b>Pittsburgh, USA</b></p>
 			</div><!--caption-->
 		</div><!--thumbnail-->
 	</div><!--cold-md-m4-->

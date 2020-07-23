@@ -5,19 +5,35 @@ title: Sushobhan Sen | Publications
 
 <div class="container">
 	<div class="row">
+	
+		<div class="col-md-3 banner-custom">
+			<h3 class="banner-title">Role of pavements in urban energetics</h3>
+			<p>Doctoral Dissertation, 2019</p>
+			<a href="http://hdl.handle.net/2142/106478" target="_blank" class="banner-button"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download PDF</a>
+		</div><!--col-md-3-->
+		
+		<div class="col-md-1">
+			
+		</div><!--col-md-1-->
+		
 		<div class="col-md-3 banner-custom">
 			<h3 class="banner-title">Impact of concrete pavements on the urban heat island</h3>
 			<p>Master's Thesis, 2015</p>
 			<a href="http://hdl.handle.net/2142/88095" target="_blank" class="banner-button"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download PDF</a>
 		</div><!--col-md-3-->
+
 	</div><!--row-->
 </div><!--container-->
 
-Reviewer For: [International Journal of Pavement Engineering](http://www.tandfonline.com/loi/gpav20), [Journal of Solar Energy](https://www.journals.elsevier.com/solar-energy/), [Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production/), [International Journal for Heat and Mass Transfer](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer/), [Transportation Research Record: Journal of the Transportation Research Board](http://trrjournalonline.trb.org/loi/trr), [Environmental Research Letters](http://iopscience.iop.org/journal/1748-9326), [The International Journal of Life Cycle Assessment](https://www.springer.com/journal/11367),[Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), [Measurement](https://www.journals.elsevier.com/measurement), [Journal of Nondestructive Evaluation](https://link.springer.com/journal/10921)
+Reviewer For: [International Journal of Pavement Engineering](http://www.tandfonline.com/loi/gpav20), [Journal of Solar Energy](https://www.journals.elsevier.com/solar-energy/), [Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production/), [International Journal for Heat and Mass Transfer](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer/), [Transportation Research Record: Journal of the Transportation Research Board](http://trrjournalonline.trb.org/loi/trr), [Environmental Research Letters](http://iopscience.iop.org/journal/1748-9326), [The International Journal of Life Cycle Assessment](https://www.springer.com/journal/11367),[Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), [Measurement](https://www.journals.elsevier.com/measurement), [Journal of Nondestructive Evaluation](https://link.springer.com/journal/10921), [Construction and Building Materials](https://www.journals.elsevier.com/construction-and-building-materials)
 
 ### Peer-Reviewed Journal Articles
 
 <table class="table table-striped table-hover">
+	<tr>
+		<td class="col-md-2"><img src="./images/parking-lots.jpg" alt="view-factors" height="100px" width="100px"></td>
+		<td><b>Reflective Parking Lots for Microscale Urban Heat Island Mitigation</b> <br> <b>Sen, S.</b>, Fernandez, JPRM, and Roesler, J. <br> Transportation Research Record: Journal of the Transportation Research Board, pp. 1-9 (2020) <br> [<a href="https://journals.sagepub.com/doi/10.1177/0361198120919401" target="_blank">pdf</a>]</td>
+	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/wind-study.jpg" alt="view-factors" height="100px" width="100px"></td>
 		<td><b>Wind direction and cool surface strategies on microscale urban heat island</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Urban Climate, Vol. 31, pp. 100548 (2020) <br> [<a href="https://www.sciencedirect.com/science/article/pii/S221209551930149X" target="_blank">pdf</a>]</td>
@@ -56,8 +72,12 @@ Reviewer For: [International Journal of Pavement Engineering](http://www.tandfon
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/lca-2020.jpg" alt="tac-2017" height="100px" width="100px"></td>
+		<td><b>Rapid ground-based measurement of pavement albedo</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Pavement, Roadway, and Bridge Life Cycle Assessment 2020, Sacramento, CA, pp. 533-540 (2020) <br> [<a href="https://www.taylorfrancis.com/books/e/9781003092278/chapters/10.1201/9781003092278-55" target="_blank">pdf</a>] </td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/coupled-model.jpg" alt="tac-2017" height="100px" width="100px"></td>
-		<td><b>Coupled pavement-urban canyon model for assessing cool pavements</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Airfield and Highway Pavements 2019: Innovation and Sustainability in Highway and Airfield Pavement Technology, Chicago, IL (2019), pp. 207-215 (2019) <br> [<a href="https://ascelibrary.org/doi/abs/10.1061/9780784482476.022" target="_blank">pdf</a>] </td>
+		<td><b>Coupled pavement-urban canyon model for assessing cool pavements</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Airfield and Highway Pavements 2019: Innovation and Sustainability in Highway and Airfield Pavement Technology, Chicago, IL, pp. 207-215 (2019) <br> [<a href="https://ascelibrary.org/doi/abs/10.1061/9780784482476.022" target="_blank">pdf</a>] </td>
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/potsdam-2018.jpg" alt="tac-2017" height="100px" width="100px"></td>

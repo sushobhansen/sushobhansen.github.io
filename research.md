@@ -12,17 +12,25 @@ title: Sushobhan Sen | Research
 </div><!--container-->
 
 ## Interests
-My area of interest is urban studies, bringing together tools from a variety of disciplines to solve the problems of the world's cities. For this, I apply skills from pavement engineering, heat transfer, Computational Fluid Dynamics (CFD), and mesoscale meteorology. 
+My interests lie in computational and data-enabled modeling of the urban environment, with a focus on urban infrastructure.  
 
 ## Projects
 
 Click on individual projects to learn more.
 
 <div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#CZM">A cohesive zone model implementation for concrete <span class="label label-default">Ongoing</span></h3>
+<h3 data-toggle="collapse" data-target="#CZM">Crack propagation in concrete beams and slabs <span class="label label-default">Ongoing</span></h3>
 <div id="CZM" class="collapse">
-<p>A novel implementation of the PPR cohesive zone model.</p>
+<p>Modeling the development of cracks in concrete beams and slabs is an important part of analyzing and designing a variety of structures. However, this process can be cumbersome, requiring detailed Finite Element (FE) modeling and significant computational resources. In this study, a computationally-efficient hybrid FE model was developed to study various size-effects in crack propagation in concrete beams and slabs.</p>
 </div><!--CZM-->
+</div>
+<br>
+
+<div class="banner-custom">
+<h3 data-toggle="collapse" data-target="#local-cool">Local cool surfaces in urban neighborhoods <span class="label label-default">Ongoing</span></h3>
+<div id="local-cool" class="collapse">
+<p>Heat pollution is known to disproportionately affect socio-economically and racially disadvantaged neighborhoods. However, these neighborhoods rarely have the funding necessary for a large-scale application of cool surfaces to mitigate heat pollution. This study looked at the effectiveness of applying cool surfaces to only a part of the area within an urban neighborhood, and comparing its benefit relative to cost with that of applying cool surfaces to the entire area. The effect of different spatial distributions of cool surfaces was also examined.</p>
+</div><!--local-cool-->
 </div>
 <br>
 

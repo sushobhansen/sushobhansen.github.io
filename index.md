@@ -20,16 +20,8 @@ title: Sushobhan Sen | Home
 ## Welcome to my website!
 I am a postdoctoral associate in the Department of Civil & Environmental Engineering at the University of Pittsburgh, with a PhD in civil engineering from the University of Illinois at Urbana-Champaign. I love infrastructure: from highways that are hundreds of kilometers long to buildings that soar to the skies, and the vast underground systems that keep both of them running. I am fascinated by the effect of infrastructure on how people live and am excited by research that helps make them better.
 
-<!---A nice picture but it clutters the homepage
-<figure style="text-align:center;">
-	<img src="/images/boston-street.jpg" width="50%" height="auto" alt="boston-street">
-	<figcaption>A view of a street in the heart of Boston, MA</figcaption>
-</figure>--->
-
-**I will be looking for tenure-track faculty positions starting 2021.**
-
 ## <i class="fa fa-newspaper-o"></i> In the news 
-- My [interview](https://ict.illinois.edu/2020/01/15/uiuc-grad-has-the-treatment-for-surging-urban-temps/) with the Illinois Center for Transportation in my last few days the University of Illinois
+- My [interview](https://ict.illinois.edu/2020/01/15/uiuc-grad-has-the-treatment-for-surging-urban-temps/) with the Illinois Center for Transportation in my last few days at the University of Illinois
 - The News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016
 - The US Environmental Protection Agency (EPA) covered some of my work in their [Heat Island Newsletter](https://www.epa.gov/heat-islands/heat-island-newsroom) (navigate to the October 2019 edition)
 - I was in the spotlight for the February, 2018 edition of the Illinois Center for Transportation's [newsletter](http://ict.illinois.edu/2018/01/26/ict-student-spotlight-sushobhan-sen/) 
@@ -37,7 +29,7 @@ I am a postdoctoral associate in the Department of Civil & Environmental Enginee
 - I taught two programming workshops: Introductory Python for beginners, and Advanced Python for scientific applications. You can find the workshop materials [here](https://github.com/sushobhansen/aci-python-workshop)
 
 ## <i class="fa fa-id-card-o"></i> Contact me
-I look forwarding to talking about my research interests and my thoughts on graduate education. <br>Use the links on the right side of the navigation bar, or the information below.
+I look forwarding to talking about my research interests and my thoughts on engineering education. <br>Use the links on the right side of the navigation bar, or the information below.
 
 <blockquote>
 	Department of Civil and Environmental Engineering, <br> 
