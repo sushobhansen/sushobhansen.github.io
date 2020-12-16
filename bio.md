@@ -98,6 +98,14 @@ title: Sushobhan Sen | Bio
 ### Leadership and Service
 <table class="table table-striped table-hover">
 	<tr>
+		<td width="20%">Aug, 2020 - Present</td>
+		<td><b>University of Pittsburgh Senate Bylaws and Procedures Committee</b> <br>Postdoctoral representative</td>
+	</tr>
+	<tr>
+		<td width="20%">Jan, 2020 - Present</td>
+		<td><b>National Postdoctoral Association</b> <br>Member</td>
+	</tr>
+	<tr>
 		<td width="20%">Jul, 2015 - December, 2019</td>
 		<td><b>International Society for Concrete Pavements</b> <br>Webmaster and student member</td>
 	</tr>
@@ -135,7 +143,7 @@ title: Sushobhan Sen | Bio
 <table class="table table-striped table-hover">
 	<tr>
 		<td width="20%"><b>Software</b></td>
-		<td>AASHTO Pavement ME, OpenFOAM, AutoCAD Civil 3D, ANSYS FLUENT, Mathematica, MATLAB, Git</td>
+		<td>AASHTO Pavement ME, OpenFOAM, AutoCAD Civil 3D, ANSYS FLUENT, ABAQUS, Mathematica, MATLAB, Git</td>
 	</tr>
 	<tr>
 		<td><b>Languages</b></td>

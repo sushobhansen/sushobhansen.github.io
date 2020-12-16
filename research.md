@@ -2,14 +2,6 @@
 layout: default
 title: Sushobhan Sen | Research
 ---
-<div class="container">
-	<div class="row">
-		<div class="col-md-3 banner-custom">
-			<h3 class="banner-title">Research Statement</h3>
-			<a href="https://github.com/sushobhansen/Statements/blob/master/Research-Statement/sushobhan-sen-research-statement.pdf" target="_blank" class="banner-button"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download PDF</a>
-		</div><!--card-block-->
-	</div><!--row-->
-</div><!--container-->
 
 ## Interests
 My interests lie in computational and data-enabled modeling of the urban environment, with a focus on urban infrastructure.  
@@ -17,6 +9,13 @@ My interests lie in computational and data-enabled modeling of the urban environ
 ## Projects
 
 Click on individual projects to learn more.
+<div class="banner-custom">
+<h3 data-toggle="collapse" data-target="#LVET">Efficient linear viscoelastic modeling of asphalt pavements <span class="label label-default">Ongoing</span></h3>
+<div id="LVET" class="collapse">
+<p>Traditional modeling of the linear viscoelastic behavior of asphalt concrete pavements requires computationally-expensive Laplace and inverse Laplace transformations as well as customized software to perform the analysis. The present study, funded by the National Cooperative Highway Research Program (NCHRP), aims to develop an alternate method by decomposing the linear viscoelastic problem into a series of linear elastic problems that can be readily solved by existing linear elastic solvers such as MnLayer.</p>
+</div><!--LVET-->
+</div>
+<br>
 
 <div class="banner-custom">
 <h3 data-toggle="collapse" data-target="#CZM">Crack propagation in concrete beams and slabs <span class="label label-default">Ongoing</span></h3>

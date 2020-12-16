@@ -16,7 +16,7 @@ title: Sushobhan Sen | Publications
 			
 		</div><!--col-md-1-->
 		
-		<div class="col-md-3 banner-custom">
+		<div class="col-md-4 banner-custom">
 			<h3 class="banner-title">Impact of concrete pavements on the urban heat island</h3>
 			<p>Master's Thesis, 2015</p>
 			<a href="http://hdl.handle.net/2142/88095" target="_blank" class="banner-button"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download PDF</a>
@@ -25,14 +25,16 @@ title: Sushobhan Sen | Publications
 	</div><!--row-->
 </div><!--container-->
 
-Reviewer For: [International Journal of Pavement Engineering](http://www.tandfonline.com/loi/gpav20), [Journal of Solar Energy](https://www.journals.elsevier.com/solar-energy/), [Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production/), [International Journal for Heat and Mass Transfer](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer/), [Transportation Research Record: Journal of the Transportation Research Board](http://trrjournalonline.trb.org/loi/trr), [Environmental Research Letters](http://iopscience.iop.org/journal/1748-9326), [The International Journal of Life Cycle Assessment](https://www.springer.com/journal/11367),[Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), [Measurement](https://www.journals.elsevier.com/measurement), [Journal of Nondestructive Evaluation](https://link.springer.com/journal/10921), [Construction and Building Materials](https://www.journals.elsevier.com/construction-and-building-materials)
-
 ### Peer-Reviewed Journal Articles
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/self-contained.jpg" alt="view-factors" height="100px" width="100px"></td>
+		<td><b>A self-contained element for modeling crack propagation in beams</b> <br> <b>Sen, S.</b>, and Khazanovich, L. <br> Engineering Fracture Mechanics, Vol. 242, pp. 107460 (2021) <br> [<a href="https://www.sciencedirect.com/science/article/pii/S0013794420310274" target="_blank">pdf</a>]</td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/parking-lots.jpg" alt="view-factors" height="100px" width="100px"></td>
-		<td><b>Reflective Parking Lots for Microscale Urban Heat Island Mitigation</b> <br> <b>Sen, S.</b>, Fernandez, JPRM, and Roesler, J. <br> Transportation Research Record: Journal of the Transportation Research Board, pp. 1-9 (2020) <br> [<a href="https://journals.sagepub.com/doi/10.1177/0361198120919401" target="_blank">pdf</a>]</td>
+		<td><b>Reflective parking lots for microscale urban heat island mitigation</b> <br> <b>Sen, S.</b>, Fernandez, JPRM, and Roesler, J. <br> Transportation Research Record: Journal of the Transportation Research Board, pp. 1-9 (2020) <br> [<a href="https://journals.sagepub.com/doi/10.1177/0361198120919401" target="_blank">pdf</a>]</td>
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/wind-study.jpg" alt="view-factors" height="100px" width="100px"></td>

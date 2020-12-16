@@ -2,16 +2,6 @@
 layout: default
 title: Sushobhan Sen | Teaching
 ---
-
-<div class="container">
-	<div class="row">
-		<div class="col-md-3 banner-custom">
-			<h3 class="banner-title">Teaching Statement</h3>
-			<a href="https://github.com/sushobhansen/Statements/blob/master/Teaching-Statement/sushobhan-sen-teaching-statement.pdf" target="_blank" class="banner-button"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download PDF</a>
-		</div><!--card-block-->
-	</div><!--row-->
-</div><!--container-->
-
 ### Teaching Certificates
 <table class="table table-striped table-hover">
 	<tr>
@@ -31,6 +21,22 @@ title: Sushobhan Sen | Teaching
 		<td>May, 2018</td>
 		<td>Center for Innovation in Teaching and Learning (CITL) at the University of Illinois</td>
 		<td style="width:50%;">Certified for attending a teaching symposium, teaching for two semesters, having a lecture observed by a consultant and receiving feedback, collecting and using feedback from students, and attending additional teaching workshops.</td>
+	</tr>
+</table>
+
+### Department of Civil & Environmental Engineering, University of Pittsburgh
+<table class="table table-striped table-hover">
+	<tr>
+		<th>Class</th>
+		<th>Semester</th>
+		<th>Role</th>
+		<th>Comments</th>
+	</tr>
+	<tr>
+		<td>CEE 2333: Introduction to Finite Elements</td>
+		<td>Fall 2020</td>
+		<td>Course Assistant</td>
+		<td style="width:50%;">Course assistant for a class of 18 undergraduate and graduate students. Assisted students with learning ABAQUS and developing a custom FEM program on MATLAB.</td>
 	</tr>
 </table>
 
