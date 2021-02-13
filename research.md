@@ -4,79 +4,86 @@ title: Sushobhan Sen | Research
 ---
 
 ## Interests
-My interests lie in computational and data-enabled modeling of the urban environment, with a focus on urban infrastructure.  
+My interests lie in computational and data-enabled modeling of infrastructure, with a particular focus on the interaction between infrastructure and the environment in urban areas.  
 
 ## Projects
+### Postdoctoral Associate, University of Pittsburgh (2020-Present)
+<table class="table table-striped table-hover">
+	<tr>
+		<td width="20%"><b>Title</b></td>
+		<td><b>Description</b></td>
+		<td width="20%"><b>Sponsor</b></td>
+		<td><b>Status</b></td>
+	</tr>
+	<tr>
+		<td>Efficient linear viscoelastic modeling of asphalt pavements</td>
+		<td>Development of an efficient numerical scheme and tool to decompose the linear viscoelastic behavior of asphalt pavements into a series of equivalent linear elastic problems. This allows for quick evaluation of the time-dependent response of flexible pavements, with particular focus on over-sized an slow-moving loads such as Implements of Husbandry (IoH).</td>
+		<td>National Cooperative Highway Research Program Project 1-58</td>
+		<td><span class="label label-default">Ongoing</span></td>
+	</tr>
+	<tr>
+		<td>Faulting model for bonded concrete overlays on asphalt (BCOA) pavements</td>
+		<td>Development of a faulting model for BCOA using Artificial Neural Networks (ANNs) and national level calibration. The project includes the development of a user-friendly webtool that implements the model.</td>
+		<td>Federal Highway Administration</td>
+		<td><span class="label label-default">Ongoing</span></td>
+	</tr>
+	<tr>
+		<td>Crack propagation in concrete beams and slabs</td>
+		<td>Development of a self-contained FE model to evaluate the propagation of a crack through concrete beams and slab, with a focus on the effect of loading and temperature distributions relevant to rigid pavements.</td>
+		<td>Anthony Gill Endowed Chair Funds at the University of Pittsburgh</td>
+		<td><span class="label label-default">Ongoing</span></td>
+	</tr>
+	<tr>
+		<td>Local cool surfaces in urban neighborhoods</td>
+		<td>Effectiveness of applying cool surfaces to only a part of the area within an urban neighborhood, and comparing its benefit relative to cost with that of applying cool surfaces to the entire area. The study also compared various spatial configurations that would maximize benefits relative to cost.</td>
+		<td>Anthony Gill Endowed Chair Funds at the University of Pittsburgh</td>
+		<td><span class="label label-default">Ongoing</span></td>
+	</tr>
+	
+</table>
 
-Click on individual projects to learn more.
-<div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#LVET">Efficient linear viscoelastic modeling of asphalt pavements <span class="label label-default">Ongoing</span></h3>
-<div id="LVET" class="collapse">
-<p>Traditional modeling of the linear viscoelastic behavior of asphalt concrete pavements requires computationally-expensive Laplace and inverse Laplace transformations as well as customized software to perform the analysis. The present study, funded by the National Cooperative Highway Research Program (NCHRP), aims to develop an alternate method by decomposing the linear viscoelastic problem into a series of linear elastic problems that can be readily solved by existing linear elastic solvers such as MnLayer.</p>
-</div><!--LVET-->
-</div>
-<br>
-
-<div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#CZM">Crack propagation in concrete beams and slabs <span class="label label-default">Ongoing</span></h3>
-<div id="CZM" class="collapse">
-<p>Modeling the development of cracks in concrete beams and slabs is an important part of analyzing and designing a variety of structures. However, this process can be cumbersome, requiring detailed Finite Element (FE) modeling and significant computational resources. In this study, a computationally-efficient hybrid FE model was developed to study various size-effects in crack propagation in concrete beams and slabs.</p>
-</div><!--CZM-->
-</div>
-<br>
-
-<div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#local-cool">Local cool surfaces in urban neighborhoods <span class="label label-default">Ongoing</span></h3>
-<div id="local-cool" class="collapse">
-<p>Heat pollution is known to disproportionately affect socio-economically and racially disadvantaged neighborhoods. However, these neighborhoods rarely have the funding necessary for a large-scale application of cool surfaces to mitigate heat pollution. This study looked at the effectiveness of applying cool surfaces to only a part of the area within an urban neighborhood, and comparing its benefit relative to cost with that of applying cool surfaces to the entire area. The effect of different spatial distributions of cool surfaces was also examined.</p>
-</div><!--local-cool-->
-</div>
-<br>
-
-<div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#nchrp1-61">Performance of Bonded Concrete Overlays on Asphalt Pavements <span class="label label-info">Completed</span></h3>
-<div id="nchrp1-61" class="collapse">
-<p>Overlays are used to extend the service life of pavements after they have undergone deterioration. While asphalt concrete overlays are common, bonded concrete overlays on existing asphalt pavements (BCOA) are also used. In this study, funded by the National Cooperative Highway Research Program (NCHRP), BCOA field were from around the US will be extracted and evaluated for performance, thermal (including Coefficient of Thermal Expansion) and optical properties, and base material characteristics. This study will lead to an improved understanding of the field performance of BCOA and advance their implementation</p>
-</div><!--nchrp1-61-->
-</div>
-<br>
-<div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#multifunc">Multi-Functional Concrete Inlays for Pavement Preservation <span class="label label-info">Completed</span></h3>
-<div id="multifunc" class="collapse">
-<p>As the transportation infrastructure in the US continues to age and funding for reconstruction diminishes, preservation offers a method to deploy resources to extend the service life of existing pavements. Moreover, it also serves as an opportunity to improve the sustainability of existing pavements, such as through using recycled materials, or improving the use-phase characteristics.</p>
-<p>In this project, we looked at using thin, fiber-reinforced concrete inlays over existing asphalt pavements to improve their functional capacity. In addition, we used white cement incorporated with titanium dioxide (TiO<sub>2</sub>) to mitigate the Urban Heat Island (UHI) by increasing the albedo of the pavement surface, and removing near-road air pollutants (NOx, SOx, and VOCs) through a photocatalytic reaction. We found that these inlays improve the surface characteristics of pavements without adding significant structural capacity, while also reducing the Radiative Forcing (RF) and converting pollutants to relatively less harmful byproducts.</p>
-</div><!--multifunc-->
-</div>
-<br>
-<div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#psat">Development of a Pavement Preservation Sustainability Assessment Tool <span class="label label-info">Completed</span></h3>
-<div id="psat" class="collapse">
-<p>Pavement Life Cycle Assessment (LCA) is a quantitative tool to measure the sustainability of pavements. In an LCA, the life cycle of a pavement is divided into materials, construction, use, maintenance, and end-of-life phases, and the environmental impact in each phase is accounted for. Currently, there is no tool that performs an LCA for pavement preservation techniques, using both asphalt and concrete treatments.</p>
-<p>In this project, a team from the <a href="http://ict.illinois.edu" target="_blank">Illinois Center for Transportation</a> is working to build a user-friendly, Excel-based tool to quantify the LCA for several preservation treatments, including chip seals, thin overlays, crack sealing, etc. As part of this tool, the use phase impact will take into account rolling resistance, texture, and Urban Heat Island (UHI) impact. In particular, the quantification of UHI will take into account differences in albedo and construction location.</p>
-</div><!--psat-->
-</div>
-<br>
-<div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#thermaloptic">Thermal and Optical Characterization of Pavement Materials <span class="label label-info">Completed</span></h3>
-<div id="thermaloptic" class="collapse">
-<p>For the characterization of the impact of pavement materials on local urban microclimate, the first step is to characterize the materials themselves. There are two types of characteristics that are of interest: optical characteristics, which determine how much energy is admitted into the pavement (absorptivity, or one minus albedo) and how much is emitted (the emissivity); and thermal characteristics, which determine how much energy is conducted through the pavement layers (thermal conductivity) and how much is stored for a given increase in temperature (heat capacity).</p>
-<p> In this project, the thermal and optical properties of both asphalt and concrete specimens is being determined. Specifically, albedo is characterized in the laboratory using a spectrophotometer, while thermal properties are characterized using a rapid, lab-based Transient Plane Source (TPS) technique. For concrete specimens, a statistically-controlled predictive model was be developed, while for asphalt specimens, field cores wereused. For both cases, a general range of values will be obtained and compared to values currently used in Mechanistic-Empirical pavement design.</p>
-<p>The last part of this project is the development of a portable, rapid albedo measurement systems. This work is ongoing.</p>
-</div><!--thermaloptic-->
-</div>
-<br>
-<div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#canyoncfd">Pavement-Urban Canyon CFD Model <span class="label label-info">Completed</span></h3>
-<div id="canyoncfd" class="collapse">
-<p>Computational Fluid Dynamics (CFD) has been used in the past to characterize the flow of wind in urban areas. A few jurisdictions, such as the Netherlands, have developed building codes that require designers to account for pedestrian wind comfort, which can be done through wind tunnel testing or CFD. Fewer studies have considered the effect of building and road configurations on the local microclimate. Research has shown that in urban canyons, the usual ventilation of air becomes constricted, leading to warm air stagnating and increasing local air temperatures.</p>
-<p>In this project, a pavement thermal model is being used together with a 3D CFD model of an urban area. Using a Boussinesq approximation for speed, the wind flow and temperature fields are resolved using a turbulence closure model in order to investigate what pavement strategies can mitigate the heat island in various parts of the city effectively. The study includes a grid convergence investigation, validation, and directional sensitivity analysis. The open-source CFD tool <a href="https://openfoam.org/" target="_blank">OpenFOAM</a> is used. The final stage of this project is to apply the model to a real-world case, which is ongoing.</p>
-</div><!--canyoncfd-->
-</div>
-<br>
-<div class="banner-custom">
-<h3 data-toggle="collapse" data-target="#autonomousveh">Critical thinking in a Geometric Design class  <span class="label label-info">Completed</span></h3>
-<div id="autonomousveh" class="collapse">
-<p>Autonomous vehicles, popularly called self-driving cars, have been the focus of research for several years, and have recently caught the attention of policymakers. Most of the transportation engineering-related literature concerning autonomous vehicles revolves around travel pattern and demand forecasting with very little focus has been placed on understanding how the widespread adoption of autonomous vehicles may change pavement geometric design. Given the expected widespread adoption of autonomous vehicles, it becomes crucial to understand and train students on potential changes in geometric design in the future. </p>
-<p>Using a Problem-Based Learning (PBL) approach, an upper-level undergradate and graduate course on Geometric Design of Roads class was asked to modify existing geometric design standards from AASHTO to incorporate elements of fully autonomous vehicles. This approach led to the development of critical thinking skills among students, as demonstrated by their newly-developed design standards and the variety of engineering judgments in them. </p>
-</div><!--autonomousveh-->
-</div>
+### Graduate Research Assistant, University of Illinois at Urbana-Champaign (2013-2019)
+<table class="table table-striped table-hover">
+	<tr>
+		<td width="20%"><b>Title</b></td>
+		<td><b>Description</b></td>
+		<td width="20%"><b>Sponsor</b></td>
+		<td><b>Status</b></td>
+	</tr>
+	<tr>
+		<td>Performance of bonded concrete overlays on asphalt (BCOA) pavement</td>
+		<td>Evaluation of BCOA cores from around the US to characterize both the concrete and asphalt materials and develop improve performance models for them.</td>
+		<td>National Cooperative Highway Research Program Project 1-61</td>
+		<td><span class="label label-info">Completed</span></td>
+	</tr>
+	<tr>
+		<td>Multi-functional concrete inlays for pavement preservation</td>
+		<td>Development of thin, fiber-reinforced concrete inlays to improve functional capacity, mitigate the Urban Heat Island (UHI), and remove near-road air pollutants (NOx, SOx, and VOCs) through a photocatalytic reaction.</td>
+		<td>University Transportation Center for Highway Pavement Preservation</td>
+		<td><span class="label label-info">Completed</span></td>
+	</tr>
+	<tr>
+		<td>Development of a pavement preservation sustainability assessment tool</td>
+		<td>A user-friendly, Excel-based pavement LCA tool for several preservation treatments was developed, with particular emphasis on incorporating use phase components of rolling resistance, texture, and Urban Heat Island (UHI) impact.</td>
+		<td>University Transportation Center for Highway Pavement Preservation</td>
+		<td><span class="label label-info">Completed</span></td>
+	</tr>
+	<tr>
+		<td>Thermal and optical characterization of pavement materials</td>
+		<td>Characterization of asphalt field cores and lab-made concrete specimens for albedo, emissivity, thermal conductivity, heat capacity, and thermal diffusivity.</td>
+		<td>University Transportation Center for Highway Pavement Preservation</td>
+		<td><span class="label label-info">Completed</span></td>
+	</tr>
+	<tr>
+		<td>Pavement-urban canyon CFD model</td>
+		<td>A 1D pavement thermal model and a 3D CFD model were coupled to model wind velocity and air temperature fields in urban areas. The program used C++ and the open-source CFD solver OpenFOAM.</td>
+		<td>University Transportation Center for Highway Pavement Preservation<br>University of Illinois internal funds</td>
+		<td><span class="label label-info">Completed</span></td>
+	</tr>
+	<tr>
+		<td>Autonomous vehicles in a class on geometric design</td>
+		<td>A course with upper-level undergraduate and graduate students was tasked with using Problem-Based Learning (PBL) to develop new geometic design standards for roads with autonomous vehicles interacting with human bicyclists.</td>
+		<td>Widening Implementation & Demonstration of Evidence-Based Reforms (WIDER) project, funded by the National Science Foundation through Grant Number DUE1347722</td>
+		<td><span class="label label-info">Completed</span></td>
+	</tr>
+</table>

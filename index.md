@@ -17,20 +17,17 @@ title: Sushobhan Sen | Home
 	</div><!--row-->
 </div><!--container-->
 
-## Welcome to my website!
 I am a postdoctoral associate in the Department of Civil & Environmental Engineering at the University of Pittsburgh, with a PhD in civil engineering from the University of Illinois at Urbana-Champaign. I love infrastructure: from highways that are hundreds of kilometers long to buildings that soar to the skies, and the vast underground systems that keep both of them running. I am fascinated by the effect of infrastructure on how people live and am excited by research that helps make them better.
 
 ## <i class="fa fa-newspaper-o"></i> In the news 
+- January 2021: I presented my work at the International Symposium on Pavement, Roadway, and Bridge Life Cycle Assessment 2020, you can find the presentation [here](http://www.ucprc.ucdavis.edu/LCA2020/Program.aspx)
 - My [interview](https://ict.illinois.edu/2020/01/15/uiuc-grad-has-the-treatment-for-surging-urban-temps/) with the Illinois Center for Transportation in my last few days at the University of Illinois
 - The News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016
 - The US Environmental Protection Agency (EPA) covered some of my work in their [Heat Island Newsletter](https://www.epa.gov/heat-islands/heat-island-newsroom) (navigate to the October 2019 edition)
 - I was in the spotlight for the February, 2018 edition of the Illinois Center for Transportation's [newsletter](http://ict.illinois.edu/2018/01/26/ict-student-spotlight-sushobhan-sen/) 
 - Read the Illinois Center for Transportation's [news brief](http://ict.illinois.edu/2018/04/19/urban-heat-islands-studied-within-a-pavement-lca-framework/) about some of my work
-- I taught two programming workshops: Introductory Python for beginners, and Advanced Python for scientific applications. You can find the workshop materials [here](https://github.com/sushobhansen/aci-python-workshop)
 
 ## <i class="fa fa-id-card-o"></i> Contact me
-I look forwarding to talking about my research interests and my thoughts on engineering education. <br>Use the links on the right side of the navigation bar, or the information below.
-
 <blockquote>
 	Department of Civil and Environmental Engineering, <br> 
 	Benedum Hall, <br>
