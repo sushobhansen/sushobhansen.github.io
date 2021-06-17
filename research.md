@@ -17,14 +17,14 @@ My interests lie in computational and data-enabled modeling of infrastructure, w
 	</tr>
 	<tr>
 		<td>Efficient linear viscoelastic modeling of asphalt pavements</td>
-		<td>Development of an efficient numerical scheme and tool to decompose the linear viscoelastic behavior of asphalt pavements into a series of equivalent linear elastic problems. This allows for quick evaluation of the time-dependent response of flexible pavements, with particular focus on over-sized an slow-moving loads such as Implements of Husbandry (IoH).</td>
-		<td>National Cooperative Highway Research Program Project 1-58</td>
+		<td>Development of an efficient numerical scheme and tool to decompose the linear viscoelastic behavior of asphalt pavements into a series of equivalent linear elastic problems. This allows for quick evaluation of the time-dependent response of flexible pavements, with particular focus on over-sized an slow-moving loads such as Implements of Husbandry (IoH) and Superloads (SLs).</td>
+		<td>National Cooperative Highway Research Program Project 1-58, Pennsylvania Department of Transportation</td>
 		<td><span class="label label-default">Ongoing</span></td>
 	</tr>
 	<tr>
 		<td>Faulting model for bonded concrete overlays on asphalt (BCOA) pavements</td>
 		<td>Development of a faulting model for BCOA using Artificial Neural Networks (ANNs) and national level calibration. The project includes the development of a user-friendly webtool that implements the model.</td>
-		<td>Federal Highway Administration</td>
+		<td>Federal Highway Administration, National Road Research Alliance</td>
 		<td><span class="label label-default">Ongoing</span></td>
 	</tr>
 	<tr>
@@ -37,7 +37,7 @@ My interests lie in computational and data-enabled modeling of infrastructure, w
 		<td>Local cool surfaces in urban neighborhoods</td>
 		<td>Effectiveness of applying cool surfaces to only a part of the area within an urban neighborhood, and comparing its benefit relative to cost with that of applying cool surfaces to the entire area. The study also compared various spatial configurations that would maximize benefits relative to cost.</td>
 		<td>Anthony Gill Endowed Chair Funds at the University of Pittsburgh</td>
-		<td><span class="label label-default">Ongoing</span></td>
+		<td><span class="label label-info">Completed</span></td>
 	</tr>
 	
 </table>

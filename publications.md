@@ -29,6 +29,10 @@ title: Sushobhan Sen | Publications
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/ncomms-2021.jpg" alt="view-factors" height="100px" width="100px"></td>
+		<td><b>Limited application of reflective surfaces can mitigate urban heat pollution</b> <br> <b>Sen, S.</b>, and Khazanovich, L. <br> Nature Communications, Vol. 12, pp. 1-8 (2021) <br> [<a href="https://doi.org/10.1038/s41467-021-23634-7" target="_blank">pdf</a>]</td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/self-contained.jpg" alt="view-factors" height="100px" width="100px"></td>
 		<td><b>A self-contained element for modeling crack propagation in beams</b> <br> <b>Sen, S.</b>, and Khazanovich, L. <br> Engineering Fracture Mechanics, Vol. 242, pp. 107460 (2021) <br> [<a href="https://www.sciencedirect.com/science/article/pii/S0013794420310274" target="_blank">pdf</a>]</td>
 	</tr>
@@ -73,6 +77,14 @@ title: Sushobhan Sen | Publications
 ### Peer-Reviewed Conference Papers
 
 <table class="table table-striped table-hover">
+	<tr>
+		<td class="col-md-2"><img src="./images/chip-seals-2021.jpg" alt="chip-seals-2021" height="100px" width="100px"></td>
+		<td><b>Heat island impact of chip seals</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Airfield and Highway Pavements 2021: Pavement Materials and Sustainability, Virtual Conference, pp. 320-331 (2021) <br> [<a href="https://doi.org/10.1061/9780784483510.029" target="_blank">pdf</a>] </td>
+	</tr>
+	<tr>
+		<td class="col-md-2"><img src="./images/asee-2021.jpg" alt="asee-2021" height="100px" width="100px"></td>
+		<td><b>Human-centered geometric design of roads using an autonomous vehicle problem</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> American Society of Engineering Education Middle Atlantic Section Spring 2021 Conference, Villanova, PA (2021) <br> [<a href="https://peer.asee.org/36302" target="_blank">pdf</a>] </td>
+	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/lca-2020.jpg" alt="tac-2017" height="100px" width="100px"></td>
 		<td><b>Rapid ground-based measurement of pavement albedo</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Pavement, Roadway, and Bridge Life Cycle Assessment 2020, Sacramento, CA, pp. 533-540 (2020) <br> [<a href="https://www.taylorfrancis.com/books/e/9781003092278/chapters/10.1201/9781003092278-55" target="_blank">pdf</a>] </td>

@@ -20,7 +20,7 @@ title: Sushobhan Sen | Home
 I am a postdoctoral associate in the Department of Civil & Environmental Engineering at the University of Pittsburgh, with a PhD in civil engineering from the University of Illinois at Urbana-Champaign. I love infrastructure: from highways that are hundreds of kilometers long to buildings that soar to the skies, and the vast underground systems that keep both of them running. I am fascinated by the effect of infrastructure on how people live and am excited by research that helps make them better.
 
 ## <i class="fa fa-newspaper-o"></i> In the news 
-- January 2021: I presented my work at the International Symposium on Pavement, Roadway, and Bridge Life Cycle Assessment 2020, you can find the presentation [here](http://www.ucprc.ucdavis.edu/LCA2020/Program.aspx)
+- The International Society for Concrete Pavements covered my paper in *Nature Communications*, read the article [here](https://www.concretepavements.org/2021/06/15/18878/)
 - My [interview](https://ict.illinois.edu/2020/01/15/uiuc-grad-has-the-treatment-for-surging-urban-temps/) with the Illinois Center for Transportation in my last few days at the University of Illinois
 - The News-Gazette [interviewed](http://www.news-gazette.com/video/2016-12-23/wired-sushobhan-sen.html) me on some of my research in Dec, 2016
 - The US Environmental Protection Agency (EPA) covered some of my work in their [Heat Island Newsletter](https://www.epa.gov/heat-islands/heat-island-newsroom) (navigate to the October 2019 edition)

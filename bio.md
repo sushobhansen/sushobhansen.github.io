@@ -106,8 +106,8 @@ title: Sushobhan Sen | Bio
 		<td><b>National Postdoctoral Association</b> <br>Member</td>
 	</tr>
 	<tr>
-		<td width="20%">Jul, 2015 - December, 2019</td>
-		<td><b>International Society for Concrete Pavements</b> <br>Webmaster and student member</td>
+		<td width="20%">Jul, 2015 - December, 2019<br>May, 2021 - Present</td>
+		<td><b>International Society for Concrete Pavements</b> <br>Webmaster and student member <br>Director of Communications</td>
 	</tr>
 	<tr>
 		<td width="20%">Aug, 2015 - Aug, 2017</td>
