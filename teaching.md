@@ -33,10 +33,16 @@ title: Sushobhan Sen | Teaching
 		<th>Comments</th>
 	</tr>
 	<tr>
+		<td>CEE 1714: Pavement Design and Analysis</td>
+		<td>Fall 2021</td>
+		<td>Grader</td>
+		<td style="width:50%;">Grader for a class of undergraduate and graduate students. Graded homeworks and projects and also developed a homework on flexible pavement design using the AASHTO '93 Guide.</td>
+	</tr>
+	<tr>
 		<td>CEE 2333: Introduction to Finite Elements</td>
-		<td>Fall 2020</td>
+		<td>Fall 2020, Fall 2021</td>
 		<td>Course Assistant</td>
-		<td style="width:50%;">Course assistant for a class of 18 undergraduate and graduate students. Assisted students with learning ABAQUS and developing a custom FEM program on MATLAB.</td>
+		<td style="width:50%;">Course assistant for a class of undergraduate and graduate students. Assisted students with learning ABAQUS and developing a custom FEM program on MATLAB.</td>
 	</tr>
 </table>
 

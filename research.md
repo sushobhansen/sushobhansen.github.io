@@ -4,7 +4,7 @@ title: Sushobhan Sen | Research
 ---
 
 ## Interests
-My interests lie in computational and data-enabled modeling of infrastructure, with a particular focus on the interaction between infrastructure and the environment in urban areas.  
+My interests lie in climate change adaptation of urban infrastructure, with a focus on pavements.  
 
 ## Projects
 ### Postdoctoral Associate, University of Pittsburgh (2020-Present)
@@ -16,6 +16,12 @@ My interests lie in computational and data-enabled modeling of infrastructure, w
 		<td><b>Status</b></td>
 	</tr>
 	<tr>
+		<td>OptiSlab: An program for modeling industrial floors</td>
+		<td>Development of an efficient Finite Element-based program for modeling stresses in industrial floors with loading relevant to such applications i.e., axle loads, rack loads, and distributed load. The modeling uses plate theory to reduce the size of a problem, with a quasi-elastic approach for modeling creep at an early age. The program includes a pre-processor written in Excel VBA, the analysis kernel in FORTRAN, and a post-processor written in Python.</td>
+		<td>PNA Construction Technologies, Inc.</td>
+		<td><span class="label label-default">Ongoing</span></td>
+	</tr>
+	<tr>
 		<td>Efficient linear viscoelastic modeling of asphalt pavements</td>
 		<td>Development of an efficient numerical scheme and tool to decompose the linear viscoelastic behavior of asphalt pavements into a series of equivalent linear elastic problems. This allows for quick evaluation of the time-dependent response of flexible pavements, with particular focus on over-sized an slow-moving loads such as Implements of Husbandry (IoH) and Superloads (SLs).</td>
 		<td>National Cooperative Highway Research Program Project 1-58, Pennsylvania Department of Transportation</td>
@@ -25,7 +31,7 @@ My interests lie in computational and data-enabled modeling of infrastructure, w
 		<td>Faulting model for bonded concrete overlays on asphalt (BCOA) pavements</td>
 		<td>Development of a faulting model for BCOA using Artificial Neural Networks (ANNs) and national level calibration. The project includes the development of a user-friendly webtool that implements the model.</td>
 		<td>Federal Highway Administration, National Road Research Alliance</td>
-		<td><span class="label label-default">Ongoing</span></td>
+		<td><span class="label label-info">Completed</span></td>
 	</tr>
 	<tr>
 		<td>Crack propagation in concrete beams and slabs</td>
