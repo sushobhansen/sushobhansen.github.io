@@ -29,6 +29,10 @@ title: Sushobhan Sen | Publications
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/ijpe-2022.jpg" alt="view-factors" height="100px" width="100px"></td>
+		<td><b>Reconsidering the strength of concrete pavements</b> <br> <b>Sen, S.</b>, and Khazanovich, L. <br> International Journal of Pavement Engineering, Available online (2022) <br> [<a href="https://doi.org/10.1080/10298436.2021.2020270" target="_blank">pdf</a>]</td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/ncomms-2021.jpg" alt="view-factors" height="100px" width="100px"></td>
 		<td><b>Limited application of reflective surfaces can mitigate urban heat pollution</b> <br> <b>Sen, S.</b>, and Khazanovich, L. <br> Nature Communications, Vol. 12, pp. 1-8 (2021) <br> [<a href="https://doi.org/10.1038/s41467-021-23634-7" target="_blank">pdf</a>]</td>
 	</tr>
