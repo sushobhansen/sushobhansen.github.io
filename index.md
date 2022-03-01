@@ -17,7 +17,7 @@ title: Sushobhan Sen | Home
 	</div><!--row-->
 </div><!--container-->
 
-I am a postdoctoral associate in the Department of Civil & Environmental Engineering at the University of Pittsburgh, with a PhD in civil engineering from the University of Illinois at Urbana-Champaign. My research interests are in the field of climate change adaptation of urban infrastructure, with a specific focus on pavements. My skills include experimental thermal and optical characterization of construction materials, computational modeling, and machine learning.
+I am a postdoctoral associate in the Department of Civil & Environmental Engineering at the University of Pittsburgh, with a PhD in civil engineering from the University of Illinois at Urbana-Champaign. My research interests are in the field of climate change adaptation of urban infrastructure, with a specific focus on pavements. My skills include experimental thermal and optical characterization of construction materials, computational modeling, and machine learning. <br>I will be starting as an Assistant Professor at the [Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/) towards the end of 2022.
 
 ## <i class="fa fa-newspaper-o"></i> In the news 
 - The International Society for Concrete Pavements covered my paper in *Nature Communications*, read the article [here](https://www.concretepavements.org/2021/06/15/18878/). I was also interviewed by TechBriefs on the paper, read it [here](https://www.techbriefs.com/component/content/article/tb/stories/blog/39417)
