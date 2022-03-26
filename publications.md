@@ -29,6 +29,10 @@ title: Sushobhan Sen | Publications
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/trr-2022.jpg" alt="view-factors" height="100px" width="100px"></td>
+		<td><b>Albedo change mechanism of asphalt concrete surfaces</b> <br> Garcia Mainieri, J.J., <b>Sen, S.</b>, Roesler, J., and Al Qadi, I.L. <br> Transportation Research Record: Journal of the Transportation Research Board, Available online (2022) <br> [<a href="https://doi.org/10.1177/03611981221082567" target="_blank">pdf</a>]</td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/ijpe-2022.jpg" alt="view-factors" height="100px" width="100px"></td>
 		<td><b>Reconsidering the strength of concrete pavements</b> <br> <b>Sen, S.</b>, and Khazanovich, L. <br> International Journal of Pavement Engineering, Available online (2022) <br> [<a href="https://doi.org/10.1080/10298436.2021.2020270" target="_blank">pdf</a>]</td>
 	</tr>
@@ -42,7 +46,7 @@ title: Sushobhan Sen | Publications
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/parking-lots.jpg" alt="view-factors" height="100px" width="100px"></td>
-		<td><b>Reflective parking lots for microscale urban heat island mitigation</b> <br> <b>Sen, S.</b>, Fernandez, JPRM, and Roesler, J. <br> Transportation Research Record: Journal of the Transportation Research Board, pp. 1-9 (2020) <br> [<a href="https://journals.sagepub.com/doi/10.1177/0361198120919401" target="_blank">pdf</a>]</td>
+		<td><b>Reflective parking lots for microscale urban heat island mitigation</b> <br> <b>Sen, S.</b>, Fernandez, JPRM, and Roesler, J. <br> Transportation Research Record: Journal of the Transportation Research Board, Vol. 2674, No. 8, pp. 663-671 (2020) <br> [<a href="https://journals.sagepub.com/doi/10.1177/0361198120919401" target="_blank">pdf</a>]</td>
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/wind-study.jpg" alt="view-factors" height="100px" width="100px"></td>
