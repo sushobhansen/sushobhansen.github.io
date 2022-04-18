@@ -29,6 +29,10 @@ title: Sushobhan Sen | Publications
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/RMPD2022.jpg" alt="view-factors" height="100px" width="100px"></td>
+		<td><b>Mechanistic-empirical model to predict transverse joint faulting of bonded concrete overlays of asphalt</b> <br> DeSantis, J.W., <b>Sen, S.</b>, and Vandenbossche, J.M. <br> Road Materials and Pavement Design, Available online (2022) <br> [<a href="https://doi.org/10.1080/14680629.2022.2061371" target="_blank">pdf</a>]</td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/trr-2022.jpg" alt="view-factors" height="100px" width="100px"></td>
 		<td><b>Albedo change mechanism of asphalt concrete surfaces</b> <br> Garcia Mainieri, J.J., <b>Sen, S.</b>, Roesler, J., and Al Qadi, I.L. <br> Transportation Research Record: Journal of the Transportation Research Board, Available online (2022) <br> [<a href="https://doi.org/10.1177/03611981221082567" target="_blank">pdf</a>]</td>
 	</tr>
@@ -86,8 +90,8 @@ title: Sushobhan Sen | Publications
 
 <table class="table table-striped table-hover">
 	<tr>
-		<td class="col-md-2"><img src="./images/chip-seals-2021.jpg" alt="chip-seals-2021" height="100px" width="100px"></td>
-		<td><b>Heat island impact of chip seals</b> <br> <b>Sen, S.</b>, and Roesler, J. <br> Airfield and Highway Pavements 2021: Pavement Materials and Sustainability, Virtual Conference, pp. 320-331 (2021) <br> [<a href="https://doi.org/10.1061/9780784483510.029" target="_blank">pdf</a>] </td>
+		<td class="col-md-2"><img src="./images/12ICCP.jpg" alt="chip-seals-2021" height="100px" width="100px"></td>
+		<td><b>Cool pavements for sustainable urban development</b> <br> <b>Sen, S.</b>, Roesler, J., Ruddell, B., and Middel, A. <br> 12th International Conference on Concrete Pavements, Virtual Conference, ISBN 978-0-578-33418-9, pp. 623-627 (2021) <br> [<a href="https://doi.org/10.33593/xx1hzrq3" target="_blank">pdf</a>] </td>
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/asee-2021.jpg" alt="asee-2021" height="100px" width="100px"></td>
