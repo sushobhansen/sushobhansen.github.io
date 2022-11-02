@@ -29,12 +29,16 @@ title: Sushobhan Sen | Publications
 
 <table class="table table-striped table-hover">
 	<tr>
+		<td class="col-md-2"><img src="./images/rineng-2022.jpg" alt="rineng2022" height="100px" width="100px"></td>
+		<td><b>Effect of climate change and urban heat islands on the deterioration of concrete roads</b> <br> <b>Sen, S.</b>, Li, H., and Khazanovich, L. <br> Results in Engineering, Vol. 16 , p. 100736 (2022) <br> [<a href="https://doi.org/10.1016/j.rineng.2022.100736" target="_blank">pdf</a>]</td>
+	</tr>
+	<tr>
 		<td class="col-md-2"><img src="./images/RMPD2022.jpg" alt="view-factors" height="100px" width="100px"></td>
 		<td><b>Mechanistic-empirical model to predict transverse joint faulting of bonded concrete overlays of asphalt</b> <br> DeSantis, J.W., <b>Sen, S.</b>, and Vandenbossche, J.M. <br> Road Materials and Pavement Design, Available online (2022) <br> [<a href="https://doi.org/10.1080/14680629.2022.2061371" target="_blank">pdf</a>]</td>
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/trr-2022.jpg" alt="view-factors" height="100px" width="100px"></td>
-		<td><b>Albedo change mechanism of asphalt concrete surfaces</b> <br> Garcia Mainieri, J.J., <b>Sen, S.</b>, Roesler, J., and Al Qadi, I.L. <br> Transportation Research Record: Journal of the Transportation Research Board, Available online (2022) <br> [<a href="https://doi.org/10.1177/03611981221082567" target="_blank">pdf</a>]</td>
+		<td><b>Albedo change mechanism of asphalt concrete surfaces</b> <br> Garcia Mainieri, J.J., <b>Sen, S.</b>, Roesler, J., and Al Qadi, I.L. <br> Transportation Research Record: Journal of the Transportation Research Board, Vol. 2676, No. 7, pp. 763-772 (2022) <br> [<a href="https://doi.org/10.1177/03611981221082567" target="_blank">pdf</a>]</td>
 	</tr>
 	<tr>
 		<td class="col-md-2"><img src="./images/ijpe-2022.jpg" alt="view-factors" height="100px" width="100px"></td>

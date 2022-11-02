@@ -98,7 +98,7 @@ title: Sushobhan Sen | Bio
 ### Leadership and Service
 <table class="table table-striped table-hover">
 	<tr>
-		<td width="20%">Aug, 2020 - Present</td>
+		<td width="20%">Aug, 2020 - May, 2020</td>
 		<td><b>University of Pittsburgh Senate Bylaws and Procedures Committee</b> <br>Postdoctoral representative</td>
 	</tr>
 	<tr>
@@ -136,17 +136,5 @@ title: Sushobhan Sen | Bio
 	<tr>
 		<td width="20%">Jul, 2011 - May, 2012</td>
 		<td><b>Kshitij Literary Magazine, Indian Institute of Technology Roorkee</b> <br>Executive Editor on the English Editorial Desk</td>
-	</tr>
-</table>
-
-### Computer Skills
-<table class="table table-striped table-hover">
-	<tr>
-		<td width="20%"><b>Software</b></td>
-		<td>AASHTO Pavement ME, OpenFOAM, AutoCAD Civil 3D, ANSYS FLUENT, ABAQUS, Mathematica, MATLAB, Git</td>
-	</tr>
-	<tr>
-		<td><b>Languages</b></td>
-		<td>C/C++/C#, Fortran, Python, Excel VBA, HTML/CSS/JS, LaTeX, Bash</td>
 	</tr>
 </table>
