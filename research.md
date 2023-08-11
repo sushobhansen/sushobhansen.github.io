@@ -7,7 +7,23 @@ title: Sushobhan Sen | Research
 My interests lie in climate change adaptation of urban infrastructure, with a focus on pavements.  
 
 ## Projects
-### Postdoctoral Associate, University of Pittsburgh (2020-Present)
+### Assistant Professor, IIT Gandhinagar (2022-Present)
+<table class="table table-striped table-hover">
+	<tr>
+		<td width="20%"><b>Title</b></td>
+		<td><b>Description</b></td>
+		<td width="20%"><b>Sponsor</b></td>
+		<td><b>Status</b></td>
+	</tr>
+	<tr>
+		<td>Blue and green infrastructure for urban heat island mitigation</td>
+		<td>Experimental and computational assessment of the effect of blue and green infrastructure on mitigating Urban Heat Islands, with a particular focus on roadside environments with Indian urban morphological conditions.</td>
+		<td>IIT Gandhinagar</td>
+		<td><span class="label label-default">Ongoing</span></td>
+	</tr>
+</table>
+
+### Postdoctoral Associate, University of Pittsburgh (2020-2022)
 <table class="table table-striped table-hover">
 	<tr>
 		<td width="20%"><b>Title</b></td>
@@ -19,13 +35,13 @@ My interests lie in climate change adaptation of urban infrastructure, with a fo
 		<td>OptiSlab: An program for modeling industrial floors</td>
 		<td>Development of an efficient Finite Element-based program for modeling stresses in industrial floors with loading relevant to such applications i.e., axle loads, rack loads, and distributed load. The modeling uses plate theory to reduce the size of a problem, with a quasi-elastic approach for modeling creep at an early age. The program includes a pre-processor written in Excel VBA, the analysis kernel in FORTRAN, and a post-processor written in Python.</td>
 		<td>PNA Construction Technologies, Inc.</td>
-		<td><span class="label label-default">Ongoing</span></td>
+		<td><span class="label label-info">Completed</span></td>
 	</tr>
 	<tr>
 		<td>Efficient linear viscoelastic modeling of asphalt pavements</td>
 		<td>Development of an efficient numerical scheme and tool to decompose the linear viscoelastic behavior of asphalt pavements into a series of equivalent linear elastic problems. This allows for quick evaluation of the time-dependent response of flexible pavements, with particular focus on over-sized an slow-moving loads such as Implements of Husbandry (IoH) and Superloads (SLs).</td>
 		<td>National Cooperative Highway Research Program Project 1-58, Pennsylvania Department of Transportation</td>
-		<td><span class="label label-default">Ongoing</span></td>
+		<td><span class="label label-info">Completed</span></td>
 	</tr>
 	<tr>
 		<td>Faulting model for bonded concrete overlays on asphalt (BCOA) pavements</td>
@@ -37,7 +53,7 @@ My interests lie in climate change adaptation of urban infrastructure, with a fo
 		<td>Crack propagation in concrete beams and slabs</td>
 		<td>Development of a self-contained FE model to evaluate the propagation of a crack through concrete beams and slab, with a focus on the effect of loading and temperature distributions relevant to rigid pavements.</td>
 		<td>Anthony Gill Endowed Chair Funds at the University of Pittsburgh</td>
-		<td><span class="label label-default">Ongoing</span></td>
+		<td><span class="label label-info">Completed</span></td>
 	</tr>
 	<tr>
 		<td>Local cool surfaces in urban neighborhoods</td>

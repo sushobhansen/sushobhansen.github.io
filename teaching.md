@@ -2,6 +2,29 @@
 layout: default
 title: Sushobhan Sen | Teaching
 ---
+
+### Department of Civil Engineering, IIT Gandhinagar
+<table class="table table-striped table-hover">
+	<tr>
+		<th>Class</th>
+		<th>Semester</th>
+		<th>Role</th>
+		<th>Comments</th>
+	</tr>
+		<tr>
+		<td>CE 635: Pavement Materials and Design</td>
+		<td>Fall 2023</td>
+		<td>Instructor</td>
+		<td style="width:50%;">Ongoing</td>
+	</tr>
+	<tr>
+		<td>ES 622: Finite Element Methods</td>
+		<td>Spring 2023</td>
+		<td>Instructor</td>
+		<td style="width:50%;">Graduate course of 17 students. Received an overall rating of 4.75 out of 5.00 based on anonymous feedback.</td>
+	</tr>
+</table>
+
 ### Teaching Certificates
 <table class="table table-striped table-hover">
 	<tr>

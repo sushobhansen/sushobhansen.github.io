@@ -22,7 +22,11 @@ title: Sushobhan Sen | Bio
 ### Experience
 <table class="table table-striped table-hover">
 	<tr>
-		<td width="20%">2020 - Present</td>
+		<td width="20%">2022 - Present</td>
+		<td><b>Assistant Professor</b> <br> Department of Civil Engineering <br> IIT Gandhinagar</td>
+	</tr>
+	<tr>
+		<td width="20%">2020 - 2022</td>
 		<td><b>Postdoctoral Associate</b> <br> Department of Civil & Environmental Engineering <br> University of Pittsburgh</td>
 	</tr>
 	<tr>
@@ -49,6 +53,10 @@ title: Sushobhan Sen | Bio
 
 ### Honors and Awards
 <table class="table table-striped table-hover">
+	<tr>
+		<td width="20%">December, 2022 - Present</td>
+		<td><b>Excellence in Research Fellowship <br>IIT Gandhinagar</td>
+	</tr>
 	<tr>
 		<td width="20%">Oct, 2017</td>
 		<td><b>PhD Student Symposium Award (2nd place)</b> <br>6th International Transportation PhD Student Symposium <br>Illinois Center for Transportation</td>
